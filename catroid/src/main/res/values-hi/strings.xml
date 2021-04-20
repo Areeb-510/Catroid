@@ -595,17 +595,6 @@
         और अन्य सेवाएं। कृपया उनके सटीक निरूपण के लिए नीचे दिया गया लिंक देखें। \n</string>
     <string name="dialog_terms_of_use_link_text">उपयोग और सेवाओं की शर्तें</string>
     <!--  -->
-    <!-- Terms of Use Dialog Parrot ARDrone-->
-    <string name="dialog_terms_of_use_link_text_parrot_reminder">उपयोग और सेवाओं की शर्तें</string>
-    <string name="dialog_terms_of_use_parrot_reminder_text">आप इस ऐप का उपयोग तोते के साथ मिलकर करने वाले हैं
-        AR.Drone 2.0। हम आपको तोता और कैटोबोट दोनों के उपयोग और सेवाओं की शर्तों का पालन करने के लिए दृढ़ता से याद दिलाते हैं।</string>
-    <string name="dialog_terms_of_use_parrot_reminder_do_not_remind_again">मुझे फिर से याद न दिलाएं</string>
-    <!--  -->
-    <!-- Terms of Use Dialog Parrot Jumping Sumo-->
-    <string name="dialog_terms_of_use_jumpingsumo_reminder_text">आप इस ऐप को एक साथ उपयोग करने वाले हैं
-        तोते का उछलना सूमो। हम आपको तोता और कैटोबोट के उपयोग की शर्तों और दोनों का पालन करने के लिए दृढ़ता से याद दिलाते हैं
-        सेवाएँ</string>
-    <!--  -->
     <!-- Privacy Policy -->
     <string name="disclaimer_privacy_police_header_headline">स्वागत हे!</string>
     <string name="disclaimer_privacy_policy_header">इस एप्लिकेशन का उपयोग करने के लिए, कृपया हमारे स्वीकार करें</string>
@@ -722,7 +711,6 @@
     <string name="prestage_resource_not_available_title">घटक उपलब्ध नहीं है</string>
     <string name="prestage_resource_not_available_text">दुर्भाग्य से यह प्रोजेक्ट आपके डिवाइस पर काम नहीं करता है।
         निम्नलिखित घटक अनुपलब्ध हैं: \n\n</string>
-    <string name="prestage_resource_in_use_text">एक अन्य उपकरण सूमो से जुड़ा है । ध्यान रखे, आप अकेले ही गबन के लिए ही नियंत्रक रहे।</string>
     <string name="prestage_no_vibration_available">\u2022 कंपन \n</string>
     <string name="prestage_no_acceleration_sensor_available">\u2022 त्वरण संवेदक\n</string>
     <string name="prestage_no_inclination_sensor_available">\u2022 त्वरण संवेदक\n</string>
@@ -732,7 +720,6 @@
     <string name="prestage_no_back_camera_available">\u2022 रियर कैमरा\n</string>
     <string name="prestage_no_face_detection_available">\u2022 चेहरा पहचान \n</string>
     <string name="prestage_no_text_detection_available">\u2022 पाठ पहचान\n</string>
-    <string name="prestage_no_jumping_sumo_available">\u2022 जंपिंग सूमो\n</string>
     <string name="prestage_no_front_camera_available">\u2022 फ्रंट कैमरा\n</string>
     <string name="prestage_no_camera_available">\u2022 कैमरा \n</string>
     <string name="prestage_no_flash_available">\u2022 टॉर्च \n</string>
@@ -938,6 +925,7 @@
     <string name="brick_write_embroidery" tools:ignore="UnusedResources">फ़ाइल करने के लिए कढ़ाई डेटा लिखें</string>
     <string name="brick_default_embroidery_file">कढ़ाई</string>
     <string name="brick_sew_up" tools:ignore="UnusedResources">सीना</string>
+    <string name="brick_thread_color">Set thread color to</string>
     <!--  -->
     <!-- Device bricks -->
     <string name="brick_reset_timer" tools:ignore="UnusedResources">टाइमर को रीसेट करें</string>
@@ -959,8 +947,8 @@
     <string name="brick_stop_all_scripts" tools:ignore="UnusedResources">सभी स्क्रिप्ट</string>
     <string name="brick_stop_other_scripts" tools:ignore="UnusedResources">इस अभिनेता या वस्तु की अन्य स्क्रिप्ट</string>
     <plurals name="second_plural">
-        <item quantity="one">"\"\"\"\"सेकंड
-सेकंड्स\"\"\"\""</item>
+        <item quantity="one">"\"\"\"\"\"सेकंड
+सेकंड्स\"\"\"\"\""</item>
         <item quantity="other">"सेकंड"</item>
     </plurals>
     <string name="brick_collision_receive" tools:ignore="UnusedResources">जब तुम उछलते हो</string>
@@ -1206,18 +1194,7 @@
     <string name="notification_download_pending">डाउनलोड जारी है</string>
     <string name="notification_download_finished">सफल डाउनलोड करें</string>
     <string name="notification_title_open">"खुला हुआ"</string>
-    <string name="notification_low_battery_with_value">ध्यान। बैटरी कम है। वर्तमान स्थिति %d है</string>
     <string name="size_of_project">आकार:</string>
-    <string name="drone_emergency_battery_low">बैटरी कम है (स्वचालित लैंडिंग)।</string>
-    <string name="drone_emergency_camera">एक या अधिक कैमरे जवाब नहीं दे रहे हैं।</string>
-    <string name="drone_emergency_ultrasound">अल्ट्रासाउंड सेंसर जवाब नहीं दे रहा है।</string>
-    <string name="drone_emergency_angle">AR.Drone 2.0 यूलर कोण बहुत अधिक चला गया। खतरनाक को रोकने के लिए मोटर्स बंद हो गए
-        व्यवहार।</string>
-    <string name="drone_emergency_cutout">एक या अधिक मोटरों को पर्यावरण द्वारा रोक दिया गया था।</string>
-    <string name="drone_alert_battery_low">फिर से उतारने के लिए बैटरी बहुत कम है।</string>
-    <string name="drone_alert_ultrasound">अल्ट्रासाउंड सेंसर AR.Drone 2.0 ऊंचाई निर्धारित नहीं कर सकता है।</string>
-    <string name="drone_alert_vision">नीचे की ओर कैमरे से गति का अनुमान नहीं।</string>
-    <string name="drone_emergency_title">आपातकालीन</string>
     <!--  -->
     <!-- Runtime permission messages -->
     <string name="runtime_permission_general">इस एप्लिकेशन को ठीक से काम करने के लिए अनुरोधित अनुमतियों की आवश्यकता है। जैसे, द
@@ -1243,18 +1220,6 @@
         कुछ बदलें और पुनः प्रयास करें।</string>
     <string name="error_adding_brick">इस ईंट को जोड़ते समय कुछ गड़बड़ हो गई।</string>
     <string name="error_copying_brick">इस ईंट की नकल करते समय कुछ गड़बड़ हुई।</string>
-    <string name="error_no_drone_connected_title">AR.Drone 2.0 नहीं मिल सकता है।</string>
-    <string name="error_no_drone_connected">अपने वाईफाई को AR.Drone 2.0 से कनेक्ट करें और फिर से प्रयास करें।</string>
-    <string name="error_drone_low_battery_title">AR.Drone 2.0 बैटरी कम: %d%%</string>
-    <string name="error_drone_low_battery">अपने बंधन को AR.Drone 2.0 से कनेक्ट करें और फिर से प्रयास करें।</string>
-    <string name="error_jumpingsumo_wrong_platform">हम आपके डिवाइस पर जंपिंग सूमो प्रोजेक्ट नहीं चला सकते हैं।</string>
-    <string name="error_no_jumpingsumo_connected_title">जंपिंग सूमो नहीं मिल सकता</string>
-    <string name="error_no_jumpingsumo_connected">जंपिंग सूमो में अपने वाईफाई को कनेक्ट करें और फिर से प्रयास करें।</string>
-    <string name="error_jumpingsumo_battery_title">जंपिंग सूमो बैटरी कम</string>
-    <string name="error_jumpingsumo_battery">अपने बंधन को AR.Drone 2.0 से कनेक्ट करें और फिर से प्रयास करें।</string>
-    <string name="error_jumpingsumo_wrong_platform_title">नो जंपिंग सूमो सपोर्ट</string>
-    <string name="error_drone_wrong_platform_title">कोई AR.Drone 2.0 समर्थन नहीं करता है।</string>
-    <string name="error_drone_wrong_platform">हम आपके डिवाइस पर AR.Drone 2.0 प्रोजेक्ट नहीं चला सकते हैं।</string>
     <string name="error_rename_incompatible_project">असंगत परियोजना का नाम बदलना संभव नहीं है।</string>
     <string name="error_embroidery_file_export">कढ़ाई फ़ाइल साझा करते समय कुछ गलत हो गया।</string>
     <string name="error_embroidery_file_write">कढ़ाई फ़ाइल लिखते समय कुछ गलत हो गया।</string>

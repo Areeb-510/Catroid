@@ -23,177 +23,180 @@
   -->
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- General terms -->
-    <string name="stage">舞台</string>
-    <string name="play">開始</string>
-    <string name="settings">設定</string>
-    <string name="redo" tools:ignore="UnusedResources">重做</string>
-    <string name="undo" tools:ignore="UnusedResources">復原</string>
-    <string name="new_option">新增&#8230;</string>
-    <string name="edit_option">編輯&#8230;</string>
-    <string name="confirm">確認</string>
-    <string name="ignore">略過</string>
-    <string name="cancel">取消</string>
-    <string name="save">存檔</string>
-    <string name="discard">取消</string>
-    <string name="next">下一步</string>
-    <string name="ok">確認</string>
-    <string name="done">完成</string>
-    <string name="close" tools:ignore="UnusedResources">關閉​​​</string>
-    <string name="assistant">助理</string>
-    <string name="yes">是</string>
-    <string name="no">否</string>
-    <string name="once">僅此一次</string>
-    <string name="always">總是</string>
-    <string name="deny">拒绝</string>
-    <string name="accept">接受</string>
-    <string name="decline">拒絕</string>
-    <string name="select_all">全選</string>
-    <string name="deselect_all">取消全選</string>
-    <string name="skip">跳過</string>
-    <string name="warning">警告</string>
-    <string name="error">錯誤</string>
-    <string name="loading">載入中&#8230;</string>
-    <string name="please_wait">請稍候</string>
-    <string name="search_hint">搜索&#8230;</string>
-    <string name="backpack_add">放進背包</string>
+    <string name="stage">ਸਟੇਜ</string>
+    <string name="play">ਖੇਡੋ</string>
+    <string name="settings">ਸੈਟਿੰਗਜ਼</string>
+    <string name="redo" tools:ignore="UnusedResources">ਦੁਬਾਰਾ ਕਰੋ</string>
+    <string name="undo" tools:ignore="UnusedResources">ਵਾਪਿਸ</string>
+    <string name="new_option">ਨਵਾਂ&#8230;</string>
+    <string name="edit_option">ਸੰਪਾਦਿਤ ਕਰੋ ...</string>
+    <string name="confirm">ਪੁਸ਼ਟੀ ਕਰੋ</string>
+    <string name="ignore">ਅਣਡਿੱਠ ਕਰੋ</string>
+    <string name="cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="save">ਸੇਵ</string>
+    <string name="discard">ਬਰਖਾਸਤ ਕਰੋ</string>
+    <string name="next">ਅਗਲਾ</string>
+    <string name="ok">ਠੀਕ ਹੈ</string>
+    <string name="done">ਹੋ ਗਿਆ</string>
+    <string name="close" tools:ignore="UnusedResources">ਬੰਦ ਕਰੋ</string>
+    <string name="assistant">ਸਹਾਇਕ</string>
+    <string name="yes">ਹਾਂ</string>
+    <string name="no">ਨਹੀਂ</string>
+    <string name="once">ਇਕ ਵਾਰ</string>
+    <string name="always">ਹਮੇਸ਼ਾ</string>
+    <string name="deny">ਇਨਕਾਰ ਕਰੋ</string>
+    <string name="accept">ਸਵੀਕਾਰ ਕਰੋ</string>
+    <string name="decline">ਅਸਵੀਕਾਰ</string>
+    <string name="select_all">ਸਾਰਿਆ ਨੂੰ ਚੁਣੋ</string>
+    <string name="deselect_all">ਸਭ ਦੀ ਚੋਣ ਕਰੋ</string>
+    <string name="skip">ਛੱਡੋ</string>
+    <string name="warning">ਚੇਤਾਵਨੀ</string>
+    <string name="error">ਗਲਤੀ</string>
+    <string name="loading">ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ ...</string>
+    <string name="please_wait">ਕ੍ਰਿਪਾ ਕਰਕੇ ਉਡੀਕ ਕਰੋ</string>
+    <string name="search_hint">ਖੋਜ ਕਰੋ ...</string>
+    <string name="backpack_add">ਬੈਕਪੈਕ ਵਿੱਚ ਸ਼ਾਮਲ ਕਰੋ</string>
     <string name="share_website_text">share.catrob.at</string>
     <!-- Security warning dialog -->
-    <string name="security_warning_dialog_msg">你下載的專案有在背景監聽並傳送資料到網際網路.
-這可能是專案原本預期的行為且無害的. 無論如何,請確認你執行專案時的談話內容是安全的. 
-如果有疑慮,請移除下載的專案. 假如你認為這個專案是有害的,你可以在 Catrobat 社群平台回報.</string>
+    <string name="security_warning_dialog_msg">ਤੁਹਾਡੇ ਦੁਆਰਾ ਡਾedਨਲੋਡ ਕੀਤਾ ਪ੍ਰੋਜੈਕਟ ਤੁਹਾਡੀ ਆਵਾਜ਼ ਸੁਣਦਾ ਹੈ
+         ਦੀ ਪਿੱਠਭੂਮੀ ਵਿਚ ਹੈ ਅਤੇ ਇਹ ਵੀ ਇੰਟਰਨੈੱਟ \'ਤੇ ਡਾਟਾ ਭੇਜਦਾ ਹੈ. ਇਹ ਨੁਕਸਾਨਦੇਹ ਅਤੇ ਜ਼ਰੂਰੀ ਹੋ ਸਕਦਾ ਹੈ
+         ਇਸ ਦੇ ਇਰਾਦੇ ਵਾਲੇ ਵਿਵਹਾਰ ਲਈ. ਹਾਲਾਂਕਿ, ਕਿਰਪਾ ਕਰਕੇ ਇਹ ਸੁਨਿਸ਼ਚਿਤ ਕਰੋ ਕਿ ਤੁਸੀਂ ਕੀ ਕਹਿ ਰਹੇ ਹੋ
+         ਪ੍ਰੋਜੈਕਟ ਚੱਲ ਰਿਹਾ ਹੈ ਸੁਰੱਖਿਅਤ ਹੈ. ਸ਼ੱਕ ਦੀ ਸਥਿਤੀ ਵਿੱਚ, ਕਿਰਪਾ ਕਰਕੇ ਡਾedਨਲੋਡ ਕੀਤੇ ਪ੍ਰੋਜੈਕਟ ਨੂੰ ਮਿਟਾਓ.
+         ਤੁਸੀਂ ਪ੍ਰੋਜੈਕਟ ਨੂੰ ਇਸਦੇ ਪੇਜ ਤੇ ਕੈਟ੍ਰੋਬੈਟ ਕਮਿ communityਨਿਟੀ ਪਲੇਟਫਾਰਮ ਤੇ ਵੀ ਰਿਪੋਰਟ ਕਰ ਸਕਦੇ ਹੋ
+         ਤੁਹਾਨੂੰ ਯਕੀਨ ਹੈ ਕਿ ਇਹ ਨੁਕਸਾਨਦੇਹ ਹੈ.</string>
     <!-- Replace Api dialog -->
-    <string name="api_replacement_dialog_neutral">Upload without change</string>
-    <string name="api_replacement_dialog_accept">Upload with keys replaced</string>
-    <string name="api_replacement_dialog_warning">The project contains bricks that access the
-        web, and also seems to contain API keys. Please see %1s why
-        uploading these keys can be dangerous.</string>
-    <string name="api_replacement">insert API key here</string>
+    <string name="api_replacement_dialog_neutral">ਬਿਨਾਂ ਬਦਲੇ ਅਪਲੋਡ ਕਰੋ</string>
+    <string name="api_replacement_dialog_accept">ਕੁੰਜੀਆਂ ਨਾਲ ਅਪਲੋਡ ਕੀਤਾ ਗਿਆ</string>
+    <string name="api_replacement_dialog_warning">ਪ੍ਰੋਜੈਕਟ ਵਿੱਚ ਇੱਟਾਂ ਸ਼ਾਮਲ ਹਨ ਜੋ ਪਹੁੰਚ ਪ੍ਰਾਪਤ ਕਰਦੀਆਂ ਹਨ
+         ਵੈਬ, ਅਤੇ ਇਸ ਵਿੱਚ ਏਪੀਆਈ ਕੁੰਜੀਆਂ ਵੀ ਲਗਦੀਆਂ ਹਨ. ਕਿਰਪਾ ਕਰਕੇ %1s ਵੇਖੋ
+         ਇਨ੍ਹਾਂ ਕੁੰਜੀਆਂ ਨੂੰ ਅਪਲੋਡ ਕਰਨਾ ਖ਼ਤਰਨਾਕ ਹੋ ਸਕਦਾ ਹੈ.</string>
+    <string name="api_replacement">ਏਪੀਆਈ ਕੁੰਜੀ ਇੱਥੇ ਪਾਓ</string>
     <!-- -->
     <!-- Login/Logout Mechanism -->
-    <string name="loading_check_oauth_token">檢查登錄狀態&#8230;</string>
-    <string name="loading_google_exchange_code">交換 Google 登錄資料&#8230;</string>
-    <string name="loading_google_login">Google在我們的伺服器登錄完成&#8230;</string>
-    <string name="logout_successful">成功登出</string>
-    <string name="degrees" tools:ignore="UnusedResources">度</string>
-    <string name="background" tools:ignore="UnusedResources">背景</string>
-    <string name="landscape">橫式</string>
-    <string name="portrait">直式</string>
-    <string name="unknown">未知</string>
-    <string name="disconnect">斷開連接</string>
+    <string name="loading_check_oauth_token">ਲੌਗਿਨ ਡਾਟਾ ਦੀ ਜਾਂਚ ਕਰ ਰਿਹਾ ਹੈ ...</string>
+    <string name="loading_google_exchange_code">ਗੂਗਲ ਲੌਗਇਨ ਡੇਟਾ ਐਕਸਚੇਂਜ ਕਰ ਰਿਹਾ ਹੈ ...</string>
+    <string name="loading_google_login">ਸਾਡੇ ਸਰਵਰ ਤੇ ਗੂਗਲ ਲੌਗਇਨ ਪੂਰਾ ਹੋ ਗਿਆ ਹੈ ...</string>
+    <string name="logout_successful">ਲੌਗਆਉਟ ਸਫਲ</string>
+    <string name="degrees" tools:ignore="UnusedResources">ਡਿਗਰੀ</string>
+    <string name="background" tools:ignore="UnusedResources">ਪਿਛੋਕੜ</string>
+    <string name="landscape">ਲੈਂਡਸਕੇਪ</string>
+    <string name="portrait">ਪੋਰਟਰੇਟ</string>
+    <string name="unknown">ਅਣਜਾਣ</string>
+    <string name="disconnect">ਡਿਸਕਨੈਕਟ</string>
     <!--  -->
     <!-- Main Menu -->
-    <string name="main_menu_continue">繼續專案</string>
-    <string name="main_menu_new">新專案</string>
-    <string name="main_menu_programs">程式檔</string>
-    <string name="main_menu_help" tools:ignore="UnusedResources">說明</string>
-    <string name="main_menu_web">Catrobat社群</string>
-    <string name="main_menu_upload">上傳程式檔</string>
-    <string name="main_menu_rate_app">對我們評分！</string>
-    <string name="main_menu_terms_of_use">使用與服務條款</string>
-    <string name="main_menu_privacy_policy">隱私權政策</string>
-    <string name="main_menu_about">關於此應用程式</string>
-    <string name="main_menu_login">登入</string>
-    <string name="main_menu_logout">登出</string>
-    <string name="main_menu_scratch_converter">Scratch轉換模塊</string>
-    <string name="main_menu_play_store_not_installed">找不到App store</string>
+    <string name="main_menu_continue">ਪ੍ਰੋਜੈਕਟ ਜਾਰੀ ਰੱਖੋ</string>
+    <string name="main_menu_new">ਨਵਾਂ ਪ੍ਰੋਜੈਕਟ</string>
+    <string name="main_menu_programs">ਡਿਵਾਈਸ ਤੇ ਪ੍ਰਾਜੈਕਟ</string>
+    <string name="main_menu_help" tools:ignore="UnusedResources">ਮਦਦ ਕਰੋ</string>
+    <string name="main_menu_web">ਕੈਟ੍ਰੋਬੈਟ ਕਮਿ communityਨਿਟੀ</string>
+    <string name="main_menu_upload">ਪ੍ਰੋਜੈਕਟ ਅਪਲੋਡ ਕਰੋ</string>
+    <string name="main_menu_rate_app">ਸਾਨੂੰ ਦਰਜਾ ਦਿਓ!</string>
+    <string name="main_menu_terms_of_use">ਵਰਤੋਂ ਅਤੇ ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ</string>
+    <string name="main_menu_privacy_policy">ਪਰਾਈਵੇਟ ਨੀਤੀ</string>
+    <string name="main_menu_about">ਇਸ ਐਪ ਬਾਰੇ</string>
+    <string name="main_menu_login">ਲਾਗਿਨ</string>
+    <string name="main_menu_logout">ਬਾਹਰ ਆਉਣਾ</string>
+    <string name="main_menu_scratch_converter">ਸਕ੍ਰੈਚ ਕਨਵਰਟਰ</string>
+    <string name="main_menu_play_store_not_installed">ਐਪ ਸਟੋਰ ਨਹੀਂ ਮਿਲਿਆ</string>
     <!--  -->
     <!-- Marketing activity -->
-    <string name="marketing_created_with">建立者</string>
-    <string name="marketing_app_details">APP詳情</string>
-    <string name="marketing_more_on_google_play">在App store的作品</string>
+    <string name="marketing_created_with">ਨਾਲ ਬਣਾਇਆ ਗਿਆ</string>
+    <string name="marketing_app_details">ਇਸ ਐਪ ਬਾਰੇ ਵੇਰਵਾ</string>
+    <string name="marketing_more_on_google_play">ਐਪ ਸਟੋਰ ਤੇ ਹੋਰ ਐਪਸ </string>
     <!-- NFC activity -->
-    <string name="nfc_activity_title">NFC 標籤</string>
+    <string name="nfc_activity_title">ਐਨਐਫਸੀ ਟੈਗਸ</string>
     <!-- Settings activity -->
-    <string name="preference_title">設定</string>
-    <string name="preference_title_language">語言</string>
-    <string name="preference_description_language">設定APP的語言</string>
-    <string name="preference_title_web_access">網站存取</string>
-    <string name="preference_description_web_access">設定新增或移除信任網域</string>
-    <string name="preference_screen_web_access_title">修改信任網域</string>
-    <string name="preference_title_accessibility">輔助功能</string>
-    <string name="preference_description_accessibility">更改APP的外貌</string>
-    <string name="preference_title_accessibility_profiles">Accessibility profiles</string>
-    <string name="preference_title_accessibility_profile">Predefined profiles</string>
-    <string name="preference_title_accessibility_profile_headline">Profiles</string>
-    <string name="preference_title_accessibility_predefined_profile_headline">Predefined profiles</string>
-    <string name="preference_description_accessibility_profiles">Pick a predefined accessibility profile</string>
-    <string name="preference_title_accessibility_text_appearance">Text appearance</string>
-    <string name="preference_title_accessibility_handling">Handling</string>
-    <string name="preference_title_accessibility_category_icons_big">Large icons</string>
-    <string name="preference_description_accessibility_category_icons_big">Increase icon size.</string>
-    <string name="preference_title_accessibility_category_icons_high_contrast">High contrast icons</string>
-    <string name="preference_title_accessibility_Brick_icons">Icons</string>
-    <string name="preference_title_accessibility_category_icons">Show icons</string>
-    <string name="preference_description_accessibility_category_icons">Add icons to categories and bricks.</string>
-    <string name="preference_title_accessibility_high_contrast">High contrast</string>
-    <string name="preference_description_accessibility_high_contrast">Increase the text contrast.</string>
-    <string name="preference_description_accessibility_large_text">Increase the text size.</string>
-    <string name="preference_title_accessibility_large_text">Large text</string>
-    <string name="preference_title_accessibility_element_spacing">Large element spacing</string>
-    <string name="preference_description_accessibility_element_spacing">Increase element spacing in lists.</string>
-    <string name="preference_title_accessibility_dragndrop_delay">Drag\'n\'drop delay</string>
-    <string name="preference_description_accessibility_dragndrop_delay">Drag\'n\'drop delay for bricks.</string>
-    <string name="preference_title_accessibility_beginner_bricks">Beginner mode</string>
-    <string name="preference_description_accessibility_beginner_bricks">Show only simple features.</string>
-    <string name="preference_title_accessibility_font_style">Choose a text type</string>
-    <string name="accessibility_font_regular">Regular</string>
-    <string name="accessibility_font_serif">Serif</string>
-    <string name="accessibility_font_dyslexic">Dyslexic</string>
-    <string name="accessibility_settings_applied">Changes applied</string>
-    <string name="preference_access_title_profile_default">Default</string>
-    <string name="preference_access_summary_profile_default">Default settings</string>
-    <string name="preference_access_title_profile_custom">My custom profile</string>
-    <string name="preference_access_summary_profile_custom">My personal settings</string>
-    <string name="preference_access_title_profile_argus">Argus</string>
-    <string name="preference_access_summary_profile_argus">High contrast, additional icons</string>
-    <string name="preference_access_title_profile_odin">Odin</string>
-    <string name="preference_access_summary_profile_odin">Large text, large icons, large element
-       spacing, high contrast</string>
-    <string name="preference_access_title_profile_fenrir">Fenrir</string>
-    <string name="preference_access_summary_profile_fenrir">Large element spacing, drag\'n\'drop
-       delay</string>
-    <string name="preference_access_title_profile_tiro">Tiro</string>
-    <string name="preference_access_summary_profile_tiro">Beginner mode</string>
+    <string name="preference_title">ਸੈਟਿੰਗਜ਼</string>
+    <string name="preference_title_language">ਭਾਸ਼ਾ</string>
+    <string name="preference_description_language">ਐਪ ਦੀ ਭਾਸ਼ਾ ਸੈਟ ਕਰੋ</string>
+    <string name="preference_title_web_access">ਵੈੱਬ ਪਹੁੰਚ</string>
+    <string name="preference_description_web_access">ਭਰੋਸੇਯੋਗ ਡੋਮੇਨ ਜੋੜਨ ਜਾਂ ਹਟਾਉਣ ਲਈ ਸੋਧ ਕਰੋ</string>
+    <string name="preference_screen_web_access_title">ਭਰੋਸੇਯੋਗ ਡੋਮੇਨ ਸੰਪਾਦਿਤ ਕਰੋ</string>
+    <string name="preference_title_accessibility">ਪਹੁੰਚਯੋਗਤਾ</string>
+    <string name="preference_description_accessibility">ਐਪ ਦੀ ਦਿੱਖ ਬਦਲੋ</string>
+    <string name="preference_title_accessibility_profiles">ਪਹੁੰਚਯੋਗਤਾ ਪਰੋਫਾਈਲ</string>
+    <string name="preference_title_accessibility_profile">ਪਰਿਭਾਸ਼ਿਤ ਪ੍ਰੋਫਾਈਲ</string>
+    <string name="preference_title_accessibility_profile_headline">ਪਰੋਫਾਈਲ</string>
+    <string name="preference_title_accessibility_predefined_profile_headline">ਪਰਿਭਾਸ਼ਿਤ ਪ੍ਰੋਫਾਈਲ</string>
+    <string name="preference_description_accessibility_profiles">ਇੱਕ ਪਰਿਭਾਸ਼ਿਤ ਐਕਸੈਸਿਬਿਲਟੀ ਪ੍ਰੋਫਾਈਲ ਚੁਣੋ</string>
+    <string name="preference_title_accessibility_text_appearance">ਟੈਕਸਟ ਦੀ ਦਿੱਖ</string>
+    <string name="preference_title_accessibility_handling">ਹੈਂਡਲਿੰਗ</string>
+    <string name="preference_title_accessibility_category_icons_big">ਵੱਡੇ ਆਈਕਾਨ</string>
+    <string name="preference_description_accessibility_category_icons_big">ਆਈਕਾਨ ਦਾ ਆਕਾਰ ਵਧਾਓ.</string>
+    <string name="preference_title_accessibility_category_icons_high_contrast">ਉੱਚ ਵਿਪਰੀਤ ਆਈਕਾਨ</string>
+    <string name="preference_title_accessibility_Brick_icons">ਆਈਕਾਨ</string>
+    <string name="preference_title_accessibility_category_icons">ਆਈਕਾਨ ਵੇਖਾਓ</string>
+    <string name="preference_description_accessibility_category_icons">ਸ਼੍ਰੇਣੀਆਂ ਅਤੇ ਇੱਟਾਂ ਤੇ ਆਈਕਾਨ ਸ਼ਾਮਲ ਕਰੋ.</string>
+    <string name="preference_title_accessibility_high_contrast">ਉੱਚ ਵਿਪਰੀਤ</string>
+    <string name="preference_description_accessibility_high_contrast">ਟੈਕਸਟ ਦੇ ਵਿਪਰੀਤ ਨੂੰ ਵਧਾਓ.</string>
+    <string name="preference_description_accessibility_large_text">ਟੈਕਸਟ ਦਾ ਆਕਾਰ ਵਧਾਓ.</string>
+    <string name="preference_title_accessibility_large_text">ਵੱਡਾ ਟੈਕਸਟ</string>
+    <string name="preference_title_accessibility_element_spacing">ਵੱਡੀ ਤੱਤ ਦੀ ਦੂਰੀ</string>
+    <string name="preference_description_accessibility_element_spacing">ਸੂਚੀਆਂ ਵਿੱਚ ਐਲੀਮੈਂਟ ਸਪੇਸ ਵਧਾਓ.</string>
+    <string name="preference_title_accessibility_dragndrop_delay">ਖਿੱਚੋ</string>
+    <string name="preference_description_accessibility_dragndrop_delay">ਇੱਟਾਂ ਲਈ ਖਿੱਚੋ.</string>
+    <string name="preference_title_accessibility_beginner_bricks">ਸ਼ੁਰੂਆਤੀ ਮੋਡ</string>
+    <string name="preference_description_accessibility_beginner_bricks">ਸਿਰਫ ਸਧਾਰਣ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਦਿਖਾਓ.</string>
+    <string name="preference_title_accessibility_font_style">ਇੱਕ ਪਾਠ ਕਿਸਮ ਚੁਣੋ</string>
+    <string name="accessibility_font_regular">ਰੋਜਾਨਾ</string>
+    <string name="accessibility_font_serif">ਸੀਰੀਫ</string>
+    <string name="accessibility_font_dyslexic">ਡਿਸਲੈਕਸਿਕ</string>
+    <string name="accessibility_settings_applied">ਤਬਦੀਲੀਆਂ ਲਾਗੂ ਕੀਤੀਆਂ</string>
+    <string name="preference_access_title_profile_default">ਮੂਲ</string>
+    <string name="preference_access_summary_profile_default">ਡਿਫੌਲਟ ਸੈਟਿੰਗਾਂ</string>
+    <string name="preference_access_title_profile_custom">ਮੇਰੀ ਕਸਟਮ ਪ੍ਰੋਫਾਈਲ</string>
+    <string name="preference_access_summary_profile_custom">ਮੇਰੀਆਂ ਨਿੱਜੀ ਸੈਟਿੰਗਾਂ</string>
+    <string name="preference_access_title_profile_argus">ਅਰਗਸ</string>
+    <string name="preference_access_summary_profile_argus">ਉੱਚ ਵਿਪਰੀਤ, ਵਾਧੂ ਆਈਕਾਨ</string>
+    <string name="preference_access_title_profile_odin">ਓਡਿਨ</string>
+    <string name="preference_access_summary_profile_odin">ਵੱਡਾ ਟੈਕਸਟ, ਵੱਡੇ ਆਈਕਾਨ, ਵੱਡਾ ਐਲੀਮੈਂਟ
+        ਖਾਲੀ ਥਾਂ, ਉੱਚ ਵਿਪਰੀਤ</string>
+    <string name="preference_access_title_profile_fenrir">ਫੈਨਰ</string>
+    <string name="preference_access_summary_profile_fenrir">ਵੱਡਾ ਤੱਤ ਸਪੇਸਿੰਗ, ਡਰੈਗ ਇਨਡ੍ਰੌਪ
+        ਦੇਰੀ</string>
+    <string name="preference_access_title_profile_tiro">ਤਿਰੋ</string>
+    <string name="preference_access_summary_profile_tiro">ਸ਼ੁਰੂਆਤੀ ਮੋਡ</string>
     <!-- Lego/Drone/Raspi/Chromecast/Embroidery -->
-    <string name="preference_title_enable_quadcopter_bricks">Parrot AR.Drone 2.0 extension</string>
-    <string name="preference_description_quadcopter_bricks">Allow the app to control Parrot AR.Drone 2.0 quadcopters</string>
-    <string name="preference_title_enable_jumpingsumo_bricks">Parrot Jumping Sumo extension</string>
-    <string name="preference_description_jumpingsumo_bricks">Allow the app to control Parrot\'s Jumping Sumo robots</string>
-    <string name="preference_title_enable_mindstorms_nxt_bricks">Lego Mindstorms NXT extension</string>
-    <string name="preference_title_enable_mindstorms_ev3_bricks">Lego Mindstorms EV3 extension</string>
-    <string name="preference_description_mindstorms_nxt_bricks">Allow the app to control Lego Mindstorms NXT robots</string>
-    <string name="preference_description_mindstorms_ev3_bricks">Allow the app to control Lego Mindstorms EV3 robots</string>
-    <string name="preference_title_mindstorms_nxt_sensors">Lego NXT Sensors</string>
-    <string name="preference_title_mindstorms_ev3_sensors">Lego EV3 Sensors</string>
-    <string name="preference_title_drone_config_properties">Parrot AR.Drone 2.0 configuration</string>
-    <string name="preference_title_enable_phiro_bricks">RobotixEdu\'s Phiro extension</string>
-    <string name="preference_description_phiro_bricks">Allow the app to control RobotixEdu\'s Phiro robots</string>
-    <string name="preference_title_enable_arduino_bricks">Arduino extension</string>
-    <string name="preference_description_arduino_bricks">Allow the app to control Arduino boards</string>
-    <string name="preference_title_enable_embroidery_bricks">Embroidery extension</string>
-    <string name="preference_description_embroidery_bricks">Create patterns for stitching machines</string>
-    <string name="preference_title_cast_feature_globally_enabled">Chromecast extension</string>
-    <string name="preference_description_cast_feature_globally_enabled">Show cast button and enable cast projects</string>
-    <string name="preference_title_enable_nfc_bricks">Near Field Communication extension</string>
-    <string name="preference_description_nfc_bricks">Allow the app to use NFC tags in projects</string>
-    <string name="preference_title_enable_crash_reports">Sending anonymous crash reports</string>
-    <string name="preference_description_crash_reports">Allow the app to send crash reports automatically</string>
+    <string name="preference_title_enable_quadcopter_bricks">ਤੋਤਾ ਏਆਰ ਡ੍ਰੋਨ 2.0 ਐਕਸਟੈਂਸ਼ਨ</string>
+    <string name="preference_description_quadcopter_bricks">ਐਪ ਨੂੰ ਤੋਤਾ ਏਆਰ.ਡ੍ਰੋਨ 2.0 ਕਵਾਡਕਾੱਪਟਰਸ ਨੂੰ ਨਿਯੰਤਰਣ ਕਰਨ ਦੀ ਆਗਿਆ ਦਿਓ</string>
+    <string name="preference_title_enable_jumpingsumo_bricks">ਤੋਤੇ ਜੰਪਿੰਗ ਸੂਮੋ ਐਕਸਟੈਂਸ਼ਨ</string>
+    <string name="preference_description_jumpingsumo_bricks">ਐਪ ਨੂੰ ਤੋਤੇ ਦੇ ਜੰਪਿੰਗ ਸੁਮੋ ਰੋਬੋਟਸ ਨੂੰ ਨਿਯੰਤਰਣ ਕਰਨ ਦੀ ਆਗਿਆ ਦਿਓ</string>
+    <string name="preference_title_enable_mindstorms_nxt_bricks">ਲੇਗੋ ਮਾਈਂਡਸਟੋਰਮਜ਼ ਐਨਐਕਸਟੀ ਐਕਸਟੈਂਸ਼ਨ</string>
+    <string name="preference_title_enable_mindstorms_ev3_bricks">ਲੇਗੋ ਮਾਈਂਡਸਟਾਰਮਜ਼ ਈਵੀ 3 ਐਕਸਟੈਂਸ਼ਨ</string>
+    <string name="preference_description_mindstorms_nxt_bricks">ਐਪ ਨੂੰ ਲੇਗੋ ਮਾਈਂਡਸਟਾਰਮਜ਼ ਐਨਐਕਸਟੀ ਰੋਬੋਟਸ ਨੂੰ ਨਿਯੰਤਰਣ ਕਰਨ ਦੀ ਆਗਿਆ ਦਿਓ</string>
+    <string name="preference_description_mindstorms_ev3_bricks">ਐਪ ਨੂੰ ਲੇਗੋ ਮਾਈਂਡਸਟਾਰਮਜ਼ ਈਵੀ 3 ਰੋਬੋਟਸ ਨੂੰ ਨਿਯੰਤਰਣ ਕਰਨ ਦੀ ਆਗਿਆ ਦਿਓ</string>
+    <string name="preference_title_mindstorms_nxt_sensors">ਲੇਗੋ ਐਨਐਕਸਟੀ ਸੈਂਸਰ</string>
+    <string name="preference_title_mindstorms_ev3_sensors">ਲੇਗੋ ਈਵੀ 3 ਸੈਂਸਰ</string>
+    <string name="preference_title_drone_config_properties">ਤੋਤਾ ਏਆਰ.ਡ੍ਰੋਨ 2.0 ਕੌਂਫਿਗਰੇਸ਼ਨ</string>
+    <string name="preference_title_enable_phiro_bricks">ਰੋਬੋਟਿਕਸਦੂ ਦਾ ਫੀਰੋ ਐਕਸਟੈਂਸ਼ਨ</string>
+    <string name="preference_description_phiro_bricks">ਐਪ ਨੂੰ ਰੋਬੋਟਿਕਸ ਈਡੂ ਦੇ ਫੀਰੋ ਰੋਬੋਟਸ ਨੂੰ ਨਿਯੰਤਰਣ ਕਰਨ ਦੀ ਆਗਿਆ ਦਿਓ</string>
+    <string name="preference_title_enable_arduino_bricks">ਅਰੂਦਿਨੋ ਐਕਸਟੈਂਸ਼ਨ</string>
+    <string name="preference_description_arduino_bricks">ਐਪ ਨੂੰ ਅਰਦਿਨੋ ਬੋਰਡਾਂ ਨੂੰ ਨਿਯੰਤਰਣ ਕਰਨ ਦੀ ਆਗਿਆ ਦਿਓ</string>
+    <string name="preference_title_enable_embroidery_bricks">ਕroਾਈ ਦਾ ਵਿਸਥਾਰ</string>
+    <string name="preference_description_embroidery_bricks">ਸਿਲਾਈ ਮਸ਼ੀਨਾਂ ਲਈ ਪੈਟਰਨ ਤਿਆਰ ਕਰੋ</string>
+    <string name="preference_title_cast_feature_globally_enabled">ਕਰੋਮਕਾਸਟ ਐਕਸਟੈਂਸ਼ਨ</string>
+    <string name="preference_description_cast_feature_globally_enabled">ਕਾਸਟ ਬਟਨ ਦਿਖਾਓ ਅਤੇ ਕਾਸਟ ਪ੍ਰੋਜੈਕਟਸ ਨੂੰ ਸਮਰੱਥ ਕਰੋ</string>
+    <string name="preference_title_enable_nfc_bricks">ਫੀਲਡ ਕਮਿicationਨੀਕੇਸ਼ਨ ਐਕਸਟੈਂਸ਼ਨ ਦੇ ਨੇੜੇ</string>
+    <string name="preference_description_nfc_bricks">ਐਪ ਨੂੰ ਪ੍ਰੋਜੈਕਟਾਂ ਵਿੱਚ NFC ਟੈਗਸ ਦੀ ਵਰਤੋਂ ਕਰਨ ਦੀ ਆਗਿਆ ਦਿਓ</string>
+    <string name="preference_title_enable_crash_reports">ਅਗਿਆਤ ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ ਭੇਜ ਰਿਹਾ ਹੈ</string>
+    <string name="preference_description_crash_reports">ਐਪ ਨੂੰ ਕਰੈਸ਼ ਰਿਪੋਰਟਾਂ ਆਪਣੇ ਆਪ ਭੇਜਣ ਦੀ ਆਗਿਆ ਦਿਓ</string>
     <!-- -->
-    <string name="preference_title_enable_raspi_bricks">Raspberry Pi extension</string>
-    <string name="preference_description_raspi_bricks">Allow the app to control Raspberry Pi computers</string>
-    <string name="preference_raspi_enable_bricks">Enable bricks and sensors</string>
-    <string name="preference_raspi_help">Help / getting started</string>
-    <string name="preference_raspi_help_summary">Get help on how to configure the connection settings</string>
-    <string name="preference_raspi_host">Raspberry Pi IP-/host-address</string>
-    <string name="preference_raspi_port">Raspberry Pi port</string>
+    <string name="preference_title_enable_raspi_bricks">ਰਸਬੇਰੀ ਪਾਈ ਪਸਾਰ</string>
+    <string name="preference_description_raspi_bricks">ਐਪ ਨੂੰ ਰਸਬੇਰੀ ਪੀ ਕੰਪਿ computersਟਰਾਂ ਨੂੰ ਨਿਯੰਤਰਣ ਕਰਨ ਦੀ ਆਗਿਆ ਦਿਓ</string>
+    <string name="preference_raspi_enable_bricks">ਇੱਟਾਂ ਅਤੇ ਸੈਂਸਰਾਂ ਨੂੰ ਸਮਰੱਥ ਬਣਾਓ</string>
+    <string name="preference_raspi_help">ਮਦਦ / ਸ਼ੁਰੂਆਤ</string>
+    <string name="preference_raspi_help_summary">ਕਨੈਕਸ਼ਨ ਸੈਟਿੰਗਜ਼ ਨੂੰ ਕੌਂਫਿਗਰ ਕਰਨ ਲਈ ਕਿਵੇਂ ਸਹਾਇਤਾ ਲਓ</string>
+    <string name="preference_raspi_host">ਰਸਬੇਰੀ ਪੀ ਆਈ ਪੀ- / ਹੋਸਟ-ਪਤਾ</string>
+    <string name="preference_raspi_port">ਰਸਬੇਰੀ ਪੋਰਟ ਪੋਰਟ</string>
     <!--  -->
-    <string name="preference_title_multiplayer_variables_enabled">Multiplayer extension</string>
-    <string name="preference_description_multiplayer_variables_enabled">Allow the app to use
-        multiplayer variables shared via Bluetooth</string>
-    <string name="preference_title_enable_test_bricks">Testing extension</string>
-    <string name="preference_description_test_bricks">Allows to create tests</string>
+    <string name="preference_title_multiplayer_variables_enabled">ਮਲਟੀਪਲੇਅਰ ਐਕਸਟੈਂਸ਼ਨ</string>
+    <string name="preference_description_multiplayer_variables_enabled">ਐਪ ਨੂੰ ਵਰਤਣ ਦੀ ਆਗਿਆ ਦਿਓ
+         ਮਲਟੀਪਲੇਅਰ ਵੇਰੀਏਬਲ ਬਲੂਟੁੱਥ ਦੁਆਰਾ ਸਾਂਝੇ ਕੀਤੇ</string>
+    <string name="preference_title_enable_test_bricks">ਪਰੀਖਿਆ ਦਾ ਵਿਸਥਾਰ</string>
+    <string name="preference_description_test_bricks">ਟੈਸਟ ਬਣਾਉਣ ਦੀ ਆਗਿਆ ਦਿੰਦਾ ਹੈ</string>
     <!-- Scratch Converter activity -->
-    <string name="beta">BETA</string>
+    <string name="beta">ਬੀਟਾ</string>
     <string name="error_scratch_program_not_accessible_any_more">Whoops! The project seems to have disappeared
         or you might have lost access to it.</string>
     <string name="error_scratch_project_data_not_available">Whoops! Some parts of the project seem to be
@@ -215,6 +218,8 @@
     <string name="error_cannot_convert_deprecated_scratch_program_x_x">I could not convert %1$s. This seems to be
         an old Scratch project from before %2$s. Please try another one.</string>
     <plurals name="error_cannot_convert_more_than_x_programs">
+        <item quantity="one">You cannot convert more than %d project at the same time. Please wait for the
+            running conversions to finish first.</item>
         <item quantity="other">You cannot convert more than %d projects at the same time. Please wait for the
             running conversions to finish first.</item>
     </plurals>
@@ -226,51 +231,57 @@
     <string name="authentication_failed">There seems to be a problem with your connection to the service. Please
         contact the Catrobat team.</string>
     <plurals name="scratch_conversion_scheduled_x">
+        <item quantity="one">Added %d Scratch project to the queue&#8230;</item>
         <item quantity="other">Added %d Scratch projects to the queue&#8230;</item>
     </plurals>
     <string name="scratch_conversion_started">Started to convert Scratch project&#8230;</string>
     <string name="convert">Convert</string>
-    <string name="converting">正在轉換&#8230;</string>
-    <string name="status_scheduled">已加入計畫</string>
-    <string name="status_waiting_for_worker">尋找空閑的轉換進程&#8230;請稍候&#8230;</string>
-    <string name="status_started">開始了&#8230;</string>
-    <string name="status_conversion_finished">轉換結束！</string>
+    <string name="converting">Converting&#8230;</string>
+    <string name="status_scheduled">Scheduled</string>
+    <string name="status_waiting_for_worker">Looking for a free worker&#8230; Please wait&#8230;</string>
+    <string name="status_started">Started&#8230;</string>
+    <string name="status_conversion_finished">Conversion finished</string>
     <plurals name="status_in_progress_x_jobs">
+        <item quantity="one">In progress: %d job</item>
         <item quantity="other">In progress: %d jobs</item>
     </plurals>
     <plurals name="status_completed_x_jobs">
+        <item quantity="one">Completed: %d job</item>
         <item quantity="other">Completed: %d jobs</item>
     </plurals>
-    <string name="status_conversion_failed">轉換失敗！</string>
-    <string name="status_downloading">正在下載&#8230;</string>
-    <string name="status_download_finished">下載已完成！</string>
-    <string name="status_download_canceled">下載被撤銷 ！</string>
+    <string name="status_conversion_failed">Conversion failed!</string>
+    <string name="status_downloading">Downloading&#8230;</string>
+    <string name="status_download_finished">Download finished.</string>
+    <string name="status_download_canceled">Download canceled!</string>
     <string name="scratch_programs_in_progress_title">In progress</string>
     <string name="scratch_programs_finished_title">Converted projects</string>
-    <string name="by_x">作者 %1$s</string>
+    <string name="by_x">by %1$s</string>
     <string name="warning_program_visibility">WARNING:\nThis seems to be a private project. You can try to
         convert it but it might not work.</string>
-    <string name="instructions">說明</string>
-    <string name="notes_and_credits">評論與得分</string>
-    <string name="shared_at_x">分享時間：%1$s</string>
-    <string name="modified_at_x">更改時間：%1$s</string>
-    <string name="remixes">調製</string>
+    <string name="instructions">Instructions</string>
+    <string name="notes_and_credits">Notes and Credits</string>
+    <string name="shared_at_x">Shared: %1$s</string>
+    <string name="modified_at_x">Modified: %1$s</string>
+    <string name="remixes">Remixes</string>
     <!--  -->
-    <string name="author">作者：</string>
-    <string name="screen_size">屏幕尺寸：</string>
-    <string name="mode">模式：</string>
-    <string name="remix_of">調製來源：</string>
-    <string name="description_hint">按下並添加說明</string>
+    <string name="author">Author:</string>
+    <string name="screen_size">Stage size:</string>
+    <string name="mode">Mode:</string>
+    <string name="remix_of">Remix of:</string>
+    <string name="description_hint">Press to add description</string>
     <string name="notes_and_credits_hint">Press to add notes and credits</string>
     <!-- ScratchReconvertDialog Strings -->
     <string name="reconvert_text">You converted this project %1$s ago.</string>
     <plurals name="minutes">
+        <item quantity="one">%d minute</item>
         <item quantity="other">%d minutes</item>
     </plurals>
     <plurals name="hours">
+        <item quantity="one">%d hour</item>
         <item quantity="other">%d hours</item>
     </plurals>
     <plurals name="days">
+        <item quantity="one">%d day</item>
         <item quantity="other">%d days</item>
     </plurals>
     <string name="reconvert_dialog_download">Download the project again</string>
@@ -292,19 +303,19 @@
     <string name="am_empty_list">There are no items in this list yet. Please add some first.</string>
     <string name="am_merge_error">No merging is done. Exactly 2 projects need to be selected to merge.</string>
     <string name="am_backpack">Pack</string>
-    <string name="am_unpack">取出</string>
-    <string name="am_copy">複製</string>
-    <string name="am_delete" tools:ignore="UnusedResources">刪除</string>
-    <string name="am_rename">更名</string>
+    <string name="am_unpack">Unpack</string>
+    <string name="am_copy">Copy</string>
+    <string name="am_delete" tools:ignore="UnusedResources">Delete</string>
+    <string name="am_rename">Rename</string>
     <string name="am_convert">Convert</string>
     <string name="am_merge">Merge</string>
     <string name="dialog_confirm_delete">You can\'t undo this!</string>
     <string name="list_headline_sprites">Actors and objects</string>
     <!-- Options Menu Options -->
-    <string name="backpack">背包</string>
-    <string name="copy">複製</string>
-    <string name="delete">刪除</string>
-    <string name="rename">更名</string>
+    <string name="backpack">Backpack</string>
+    <string name="copy">Copy</string>
+    <string name="delete">Delete</string>
+    <string name="rename">Rename</string>
     <string name="merge">Merge</string>
     <string name="show_details">Show details</string>
     <string name="hide_details">Hide details</string>
@@ -315,24 +326,31 @@
     <string name="new_scene_dialog">New scene</string>
     <!-- Delete Dialog Titles -->
     <plurals name="delete_projects">
+        <item quantity="one">Delete this project?</item>
         <item quantity="other">Delete these projects?</item>
     </plurals>
     <plurals name="delete_scenes">
+        <item quantity="one">Delete this scene?</item>
         <item quantity="other">Delete these scenes?</item>
     </plurals>
     <plurals name="delete_sprites">
+        <item quantity="one">Delete this actor or object?</item>
         <item quantity="other">Delete these actors or objects?</item>
     </plurals>
     <plurals name="delete_looks">
+        <item quantity="one">Delete this look?</item>
         <item quantity="other">Delete these looks?</item>
     </plurals>
     <plurals name="delete_sounds">
+        <item quantity="one">Delete this sound?</item>
         <item quantity="other">Delete these sounds?</item>
     </plurals>
     <plurals name="delete_nfc_tags">
+        <item quantity="one">Delete this tag?</item>
         <item quantity="other">Delete these tags?</item>
     </plurals>
     <plurals name="delete_scripts">
+        <item quantity="one">Delete this script?</item>
         <item quantity="other">Delete these scripts?</item>
     </plurals>
     <!-- Dialog Labels -->
@@ -344,7 +362,7 @@
     <string name="look_name_label">Look name</string>
     <string name="sound_name_label">Sound name</string>
     <string name="nfc_tag_name_label">NFC tag name</string>
-    <string name="string_label">文字</string>
+    <string name="string_label">Text</string>
     <string name="data_label">Name</string>
     <string name="keyword_label">Insert keyword</string>
     <string name="html_label">Insert HTML text</string>
@@ -359,124 +377,146 @@
     <string name="sound_details">Duration: %s, size: %s</string>
     <!--  -->
     <!-- Rename Dialog Titles -->
-    <string name="rename_project">程式檔更名</string>
+    <string name="rename_project">Rename project</string>
     <string name="rename_scene_dialog">Rename scene</string>
-    <string name="rename_sprite_dialog">物件更名</string>
-    <string name="rename_look_dialog">外觀更名</string>
-    <string name="rename_sound_dialog">音效更名</string>
+    <string name="rename_sprite_dialog">Rename actor or object</string>
+    <string name="rename_look_dialog">Rename look</string>
+    <string name="rename_sound_dialog">Rename sound</string>
     <string name="rename_nfctag_dialog">Rename NFC tag</string>
-    <string name="rename_data_dialog">更名</string>
+    <string name="rename_data_dialog">Rename</string>
     <!-- New Script Group Dialog -->
-    <string name="new_group">新群組</string>
+    <string name="new_group">New group</string>
     <string name="default_group_name">Group</string>
     <!-- New Scene Menu -->
     <string name="new_scene">New scene</string>
     <!-- Action Toasts -->
     <!-- Backpack -->
     <plurals name="packed_scenes">
+        <item quantity="one">Backpacked %d scene.</item>
         <item quantity="other">Backpacked %d scenes.</item>
     </plurals>
     <plurals name="packed_sprites">
+        <item quantity="one">Backpacked %d actor or object.</item>
         <item quantity="other">Backpacked %d actors or objects.</item>
     </plurals>
     <plurals name="packed_looks">
+        <item quantity="one">Backpacked %d look.</item>
         <item quantity="other">Backpacked %d looks.</item>
     </plurals>
     <plurals name="packed_sounds">
+        <item quantity="one">Backpacked %d sound.</item>
         <item quantity="other">Backpacked %d sounds.</item>
     </plurals>
     <string name="packed_script_group">Backpacked one script group.</string>
     <!-- Unpack -->
     <plurals name="unpacked_scenes">
+        <item quantity="one">Unpacked %d scene.</item>
         <item quantity="other">Unpacked %d scenes.</item>
     </plurals>
     <plurals name="unpacked_sprites">
+        <item quantity="one">Unpacked %d actor or object.</item>
         <item quantity="other">Unpacked %d actors or objects.</item>
     </plurals>
     <plurals name="unpacked_looks">
+        <item quantity="one">Unpacked %d look.</item>
         <item quantity="other">Unpacked %d looks.</item>
     </plurals>
     <plurals name="unpacked_sounds">
+        <item quantity="one">Unpacked %d sound.</item>
         <item quantity="other">Unpacked %d sounds.</item>
     </plurals>
     <plurals name="unpacked_scripts">
+        <item quantity="one">Unpacked %d script.</item>
         <item quantity="other">Unpacked %d scripts.</item>
     </plurals>
     <!-- Copy -->
     <plurals name="copied_scenes">
+        <item quantity="one">Copied %d scene.</item>
         <item quantity="other">Copied %d scenes.</item>
     </plurals>
     <plurals name="copied_sprites">
+        <item quantity="one">Copied %d actor or object.</item>
         <item quantity="other">Copied %d actors or objects.</item>
     </plurals>
     <plurals name="copied_looks">
+        <item quantity="one">Copied %d look.</item>
         <item quantity="other">Copied %d looks.</item>
     </plurals>
     <plurals name="copied_sounds">
+        <item quantity="one">Copied %d sound.</item>
         <item quantity="other">Copied %d sounds.</item>
     </plurals>
     <plurals name="copied_nfc_tags">
+        <item quantity="one">Copied %d NFC tag.</item>
         <item quantity="other">Copied %d NFC tags.</item>
     </plurals>
     <!-- Delete -->
     <plurals name="deleted_projects">
+        <item quantity="one">Deleted %d project.</item>
         <item quantity="other">Deleted %d projects.</item>
     </plurals>
     <plurals name="deleted_scenes">
+        <item quantity="one">Deleted %d scene.</item>
         <item quantity="other">Deleted %d scenes.</item>
     </plurals>
     <plurals name="deleted_sprites">
+        <item quantity="one">Deleted %d sprite.</item>
         <item quantity="other">Deleted %d sprites.</item>
     </plurals>
     <plurals name="deleted_looks">
+        <item quantity="one">Deleted %d look.</item>
         <item quantity="other">Deleted %d looks.</item>
     </plurals>
     <plurals name="deleted_sounds">
+        <item quantity="one">Deleted %d sound.</item>
         <item quantity="other">Deleted %d sounds.</item>
     </plurals>
     <plurals name="deleted_nfc_tags">
+        <item quantity="one">Deleted %d NFC tag.</item>
         <item quantity="other">Deleted %d NFC tags.</item>
     </plurals>
     <plurals name="deleted_scripts">
+        <item quantity="one">Deleted %d script.</item>
         <item quantity="other">Deleted %d scripts.</item>
     </plurals>
     <plurals name="deleted_Items">
+        <item quantity="one">Deleted %d item.</item>
         <item quantity="other">Deleted %d items.</item>
     </plurals>
     <!--  -->
     <!-- ProjectListActivity and ProjectListFragment -->
-    <string name="project_list_title">程式檔</string>
-    <string name="last_used">最近使用:</string>
-    <string name="size">大小:</string>
-    <string name="description">描述:</string>
-    <string name="set_description">設定描述</string>
+    <string name="project_list_title">Projects</string>
+    <string name="last_used">Last access:</string>
+    <string name="size">Size:</string>
+    <string name="description">Description:</string>
+    <string name="set_description">Set description</string>
     <string name="notes_and_credits_title">Notes and credits:</string>
     <string name="set_notes_and_credits">Set notes and credits</string>
-    <string name="details_date_today">今天</string>
+    <string name="details_date_today">Today</string>
     <string name="import_project">Import project</string>
     <string name="error_import_project">Something went wrong while importing projects.</string>
     <string name="error_no_files_found">No project files found.</string>
     <!-- ProjectOptionsFragment -->
-    <string name="project_options_description">描述</string>
-    <string name="project_options_notes_and_credits">Credits</string>
+    <string name="project_options_description">Description</string>
+    <string name="project_options_notes_and_credits">Notes and credits</string>
     <string name="project_options_tags">Tags</string>
     <string name="project_options_aspect_ratio">Keep original aspect ratio</string>
     <string name="project_options_more_details">More details</string>
     <string name="project_options_delete_project">Delete project</string>
     <!-- ScriptListFragment -->
-    <string name="fragment_script_text_description">按下 \"+\" 增加腳本</string>
+    <string name="fragment_script_text_description">Tap \"+\" to add scripts</string>
     <!--  -->
     <!-- SpriteListFragment -->
     <string name="fragment_sprite_text_description">Tap \"+\" to add actors or objects</string>
     <string name="default_sprite_name">My actor or object</string>
     <!--  -->
     <!-- LookListFragment -->
-    <string name="fragment_look_text_description">按下 \"+\" 增加外觀</string>
-    <string name="select_look_from_gallery">選擇圖像</string>
-    <string name="select_look_from_camera">選擇相片</string>
+    <string name="fragment_look_text_description">Tap \"+\" to add looks</string>
+    <string name="select_look_from_gallery">Select image</string>
+    <string name="select_look_from_camera">Select photo</string>
     <!--  -->
     <!-- SoundListFragment -->
-    <string name="fragment_sound_text_description">按下 \"+\" 增加音效</string>
+    <string name="fragment_sound_text_description">Tap \"+\" to add sounds</string>
     <string name="sound_select_source">Select a sound</string>
     <!--  -->
     <!-- NfcTagListFragment -->
@@ -487,7 +527,7 @@
     <string name="default_tag_name">NFC tag</string>
     <string name="tnf_empty">Empty</string>
     <string name="tnf_external_type">External type</string>
-    <string name="tnf_mime_media">文字</string>
+    <string name="tnf_mime_media">Text</string>
     <string name="tnf_well_known_http">HTTP</string>
     <string name="tnf_well_known_https">HTTPS</string>
     <string name="tnf_well_known_tel">Phone number</string>
@@ -502,6 +542,7 @@
     <string name="local_lists_headline">Lists for this actor or object only</string>
     <string name="fragment_data_text_description">Tap \"+\" to add\nvariables or lists</string>
     <plurals name="user_defined_brick_input_headline">
+        <item quantity="one">Input for this brick</item>
         <item quantity="other">Inputs for this brick</item>
     </plurals>
     <!-- NewDataDialog -->
@@ -512,7 +553,7 @@
     <!-- Backpack -->
     <string name="backpack_title">Your backpack</string>
     <string name="pack">Pack</string>
-    <string name="unpack">取出</string>
+    <string name="unpack">Unpack</string>
     <!--  -->
     <!-- NewProjectDialog -->
     <string name="new_project_dialog_example_project">Example project</string>
@@ -522,13 +563,13 @@
     <string name="merging_project_text">These two projects cannot yet be merged</string>
     <!--  -->
     <!-- NewSpriteDialog -->
-    <string name="new_sprite_dialog_title">建立新物件</string>
+    <string name="new_sprite_dialog_title">New actor or object</string>
     <!--  -->
     <!-- NewLookDialog -->
-    <string name="new_look_dialog_title">增加外觀</string>
-    <string name="add_look_from_camera">拍攝照片</string>
-    <string name="add_look_draw_new_image">繪製圖像</string>
-    <string name="add_look_choose_image">選擇圖像</string>
+    <string name="new_look_dialog_title">Add look</string>
+    <string name="add_look_from_camera">Take picture</string>
+    <string name="add_look_draw_new_image">Draw image</string>
+    <string name="add_look_choose_image">Select image</string>
     <string name="add_look_media_library">Media library</string>
     <!--  -->
     <!-- NewSoundDialog -->
@@ -547,33 +588,33 @@
     <string name="rating_dialog_rate_never">Never</string>
     <!--  -->
     <!-- Terms of Use Dialog -->
-    <string name="dialog_terms_of_use_title">使用與服務條款</string>
+    <string name="dialog_terms_of_use_title">ਵਰਤੋਂ ਅਤੇ ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ</string>
     <string name="dialog_terms_of_use_info">In order to
         be allowed to use the apps and other services offered by the Catrobat project, you
         must agree to our Terms of Use and Service. You have to follow these terms strictly when using our apps
         and other services. Please see the link below for their precise formulation.\n</string>
-    <string name="dialog_terms_of_use_link_text">使用與服務條款</string>
+    <string name="dialog_terms_of_use_link_text">ਵਰਤੋਂ ਅਤੇ ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ</string>
     <!--  -->
     <!-- Privacy Policy -->
     <string name="disclaimer_privacy_police_header_headline">Welcome!</string>
     <string name="disclaimer_privacy_policy_header">To use this app, please accept our</string>
     <!-- -->
     <!-- About Dialog -->
-    <string name="dialog_about_title">關於此應用程式</string>
+    <string name="dialog_about_title">About this App</string>
     <string name="dialog_about_license_info">This app offers a coding
         environment and interpreter for the visual programming language Catrobat.\n
         The source code of this app is mainly licensed under the GNU AGPL v3 license.
         For further details on the license see the link below.\n</string>
-    <string name="dialog_about_license_link_text">原始程式碼許可證</string>
-    <string name="dialog_about_catrobat_link_text">關於 Catrobat</string>
+    <string name="dialog_about_license_link_text">Source code license</string>
+    <string name="dialog_about_catrobat_link_text">About Catrobat</string>
     <string name="dialog_about_catrobat_language_version">Catrobat language version</string>
     <string name="dialog_about_version">version:</string>
     <!--  -->
     <!-- NetworkAlertDialog -->
     <string name="error_no_network_title">No network</string>
     <!-- UploadProjectDialog -->
-    <string name="upload_project_dialog_title">上傳程式檔</string>
-    <string name="upload_description">描述:</string>
+    <string name="upload_project_dialog_title">Upload project</string>
+    <string name="upload_description">Description:</string>
     <string name="upload_notes_and_credits">Notes and credits:</string>
     <string name="upload_notes_and_credits_explanation">How did you create this project? Did you use ideas, scripts or artwork from other people? Thank them here.</string>
     <string name="upload_tag_dialog_title">Please choose up to three categories</string>
@@ -587,10 +628,10 @@
     <string name="save_project_to_external_storage_io_exception_message">Failed to save project, not enough memory is available!</string>
     <!--  -->
     <!-- SoundRecorderActivity -->
-    <string name="soundrecorder_name">Pocket Code 錄音機</string>
-    <string name="soundrecorder_error">音效錄製失敗</string>
-    <string name="soundrecorder_recorded_filename">錄音</string>
-    <string name="soundrecorder_text_view">按上方圖示開始或停止錄音</string>
+    <string name="soundrecorder_name">Sound recorder</string>
+    <string name="soundrecorder_error">Sound recording failed</string>
+    <string name="soundrecorder_recorded_filename">recording</string>
+    <string name="soundrecorder_text_view">Tap the icon above to start and stop recording.</string>
     <!--  -->
     <!-- Brick context dialog -->
     <string name="brick_context_dialog_move_brick">Move brick</string>
@@ -607,7 +648,7 @@
     <string name="brick_context_dialog_highlight_brick_parts">Highlight brick parts</string>
     <string name="brick_context_dialog_comment_in_script">Enable script</string>
     <string name="brick_context_dialog_comment_out_script">Disable script</string>
-    <string name="brick_context_dialog_help">說明</string>
+    <string name="brick_context_dialog_help">Help</string>
     <string name="comment_in_out">Disable/enable</string>
     <string name="catblocks">Toggle 2D</string>
     <string name="catblocks_reorder">Clean up scripts</string>
@@ -620,15 +661,15 @@
     <!--  -->
     <!-- Sign In dialogs -->
     <string name="sign_in_dialog_title">Sign in</string>
-    <string name="username">建立新帳號</string>
-    <string name="password">成功更新您的國家。</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
     <string name="reset_password">Reset password</string>
-    <string name="new_user_registered">已建立新帳號</string>
+    <string name="new_user_registered">New account created</string>
     <string name="user_logged_in">Login successful</string>
     <string name="register_error">Login invalid</string>
-    <string name="register_terms">註冊即代表您同意我們的</string>
-    <string name="register_code_terms_of_use_text">使用與服務條款</string>
-    <string name="login">登入</string>
+    <string name="register_terms">By registering you agree to our</string>
+    <string name="register_code_terms_of_use_text">Terms of use and service</string>
+    <string name="login">Login</string>
     <string name="register">Register</string>
     <string name="password_confirm">Confirm password</string>
     <string name="accountName">E-Mail</string>
@@ -690,17 +731,17 @@
         issues.</string>
     <!--  -->
     <!-- Stage menu dialog -->
-    <string name="stage_dialog_back">返回</string>
-    <string name="stage_dialog_resume">繼續</string>
-    <string name="stage_dialog_restart">重新開始</string>
+    <string name="stage_dialog_back">Back</string>
+    <string name="stage_dialog_resume">Resume</string>
+    <string name="stage_dialog_restart">Restart</string>
     <string name="stage_dialog_axes_on">Axes on</string>
     <string name="stage_dialog_axes_off">Axes off</string>
-    <string name="stage_dialog_maximize">全畫面/\n伸展</string>
+    <string name="stage_dialog_maximize">Maximize/\nstretch</string>
     <string name="stage_dialog_screenshot">Preview</string>
     <string name="stage_dialog_embroidery">Embroidery</string>
     <!--  -->
     <!-- Broadcast spinner -->
-    <string name="dialog_new_broadcast_message_title">新訊息</string>
+    <string name="dialog_new_broadcast_message_title">New message</string>
     <string name="dialog_broadcast_message_name">message:</string>
     <string name="dialog_edit_broadcast_message_title">Edit message</string>
     <!--  -->
@@ -709,18 +750,18 @@
     <string name="brick_when_nfc_default_all">all</string>
     <!-- -->
     <!-- Brick categories -->
-    <string name="categories" tools:ignore="UnusedResources">程式塊分類</string>
+    <string name="categories" tools:ignore="UnusedResources">Categories</string>
     <string name="category_embroidery" tools:ignore="UnusedResources">Embroidery</string>
-    <string name="category_motion" tools:ignore="UnusedResources">動作</string>
-    <string name="category_looks" tools:ignore="UnusedResources">外觀</string>
+    <string name="category_motion" tools:ignore="UnusedResources">Motion</string>
+    <string name="category_looks" tools:ignore="UnusedResources">Looks</string>
     <string name="category_pen" tools:ignore="UnusedResources">Pen</string>
-    <string name="category_sound" tools:ignore="UnusedResources">音效</string>
-    <string name="category_control" tools:ignore="UnusedResources">控制</string>
+    <string name="category_sound" tools:ignore="UnusedResources">Sound</string>
+    <string name="category_control" tools:ignore="UnusedResources">Control</string>
     <string name="category_event" tools:ignore="UnusedResources">Event</string>
     <string name="category_user_bricks" tools:ignore="UnusedResources">Your bricks</string>
-    <string name="category_data" tools:ignore="UnusedResources">變數資料</string>
+    <string name="category_data" tools:ignore="UnusedResources">Data</string>
     <string name="category_device" tools:ignore="UnusedResources">Device</string>
-    <string name="category_lego_nxt" tools:ignore="UnusedResources">樂高 NXT</string>
+    <string name="category_lego_nxt" tools:ignore="UnusedResources">Lego NXT</string>
     <string name="category_lego_ev3" tools:ignore="UnusedResources">Lego EV3</string>
     <string name="category_drone" tools:ignore="UnusedResources">AR.Drone 2.0</string>
     <string name="category_jumping_sumo" tools:ignore="UnusedResources">Jumping Sumo</string>
@@ -741,37 +782,39 @@
     <string name="brick_user_defined_script_define" tools:ignore="UnusedResources">Define</string>
     <string name="brick_user_defined_script_as" tools:ignore="UnusedResources">as</string>
     <string name="brick_user_defined_list_empty">Tap \"+\" to add your own new bricks.</string>
-    <string name="brick_report" tools:ignore="UnusedResources">報告</string>
+    <string name="brick_report" tools:ignore="UnusedResources">Report</string>
     <!--  -->
     <!-- Motion bricks -->
-    <string name="brick_place_at" tools:ignore="UnusedResources">"放置座標 "</string>
+    <string name="brick_place_at" tools:ignore="UnusedResources">"Place at"</string>
     <string name="brick_option_place_visually">Place visually</string>
-    <string name="x_label" tools:ignore="UnusedResources">"X: "</string>
-    <string name="y_label" tools:ignore="UnusedResources">"Y: "</string>
-    <string name="brick_set_x" tools:ignore="UnusedResources">"更改 X 座標到 "</string>
-    <string name="brick_set_y" tools:ignore="UnusedResources">"更改 Y 座標到 "</string>
-    <string name="brick_change_x_by" tools:ignore="UnusedResources">"X 座標增加 "</string>
-    <string name="brick_change_y_by" tools:ignore="UnusedResources">"Y 座標增加 "</string>
-    <string name="brick_go_back" tools:ignore="UnusedResources">回前</string>
+    <string name="x_label" tools:ignore="UnusedResources">"x:"</string>
+    <string name="y_label" tools:ignore="UnusedResources">"y:"</string>
+    <string name="brick_set_x" tools:ignore="UnusedResources">"Set x to"</string>
+    <string name="brick_set_y" tools:ignore="UnusedResources">"Set y to"</string>
+    <string name="brick_change_x_by" tools:ignore="UnusedResources">"Change x by"</string>
+    <string name="brick_change_y_by" tools:ignore="UnusedResources">"Change y by"</string>
+    <string name="brick_go_back" tools:ignore="UnusedResources">Go back</string>
     <string name="brick_set_rotation_style" tools:ignore="UnusedResources">"Set rotation style"</string>
     <string name="brick_set_rotation_style_lr" tools:ignore="UnusedResources">left-right only</string>
     <string name="brick_set_rotation_style_normal" tools:ignore="UnusedResources">all-around</string>
     <string name="brick_set_rotation_style_no" tools:ignore="UnusedResources">don\'t rotate</string>
     <plurals name="brick_go_back_layer_plural">
-        <item quantity="other">圖層</item>
+        <item quantity="one">layer</item>
+        <item quantity="other">layers</item>
     </plurals>
-    <string name="brick_come_to_front" tools:ignore="UnusedResources">到最上層</string>
-    <string name="brick_if_on_edge_bounce" tools:ignore="UnusedResources">碰到邊緣反彈</string>
-    <string name="brick_move" tools:ignore="UnusedResources">移動</string>
+    <string name="brick_come_to_front" tools:ignore="UnusedResources">Go to front</string>
+    <string name="brick_if_on_edge_bounce" tools:ignore="UnusedResources">If on edge, bounce</string>
+    <string name="brick_move" tools:ignore="UnusedResources">Move</string>
     <plurals name="brick_move_n_step_plural">
-        <item quantity="other">步</item>
+        <item quantity="one">step</item>
+        <item quantity="other">steps</item>
     </plurals>
-    <string name="brick_turn_left" tools:ignore="UnusedResources">左轉</string>
-    <string name="brick_turn_right" tools:ignore="UnusedResources">右轉</string>
-    <string name="brick_point_in_direction" tools:ignore="UnusedResources">轉向角度</string>
-    <string name="brick_point_to" tools:ignore="UnusedResources">轉向朝著</string>
-    <string name="brick_glide" tools:ignore="UnusedResources">滑動</string>
-    <string name="brick_glide_to_x" tools:ignore="UnusedResources">到 X:</string>
+    <string name="brick_turn_left" tools:ignore="UnusedResources">Turn left</string>
+    <string name="brick_turn_right" tools:ignore="UnusedResources">Turn right</string>
+    <string name="brick_point_in_direction" tools:ignore="UnusedResources">Point in direction</string>
+    <string name="brick_point_to" tools:ignore="UnusedResources">Point towards</string>
+    <string name="brick_glide" tools:ignore="UnusedResources">Glide</string>
+    <string name="brick_glide_to_x" tools:ignore="UnusedResources">to x:</string>
     <string name="brick_go_to" tools:ignore="UnusedResources">Go to</string>
     <string name="brick_go_to_touch_position">touch position</string>
     <string name="brick_go_to_random_position">random position</string>
@@ -783,7 +826,7 @@
     <string name="brick_set_physics_object_type_no" tools:ignore="UnusedResources">not moving or bouncing under gravity (default)</string>
     <string name="brick_set_mass" tools:ignore="UnusedResources">"Set mass to"</string>
     <string name="brick_set_mass_unit" tools:ignore="UnusedResources">kilogram</string>
-    <string name="brick_set_gravity_to" tools:ignore="UnusedResources">"設置所有物件的重力為 "</string>
+    <string name="brick_set_gravity_to" tools:ignore="UnusedResources">"Set gravity for all actors and objects to"</string>
     <string name="brick_set_gravity_unit" tools:ignore="UnusedResources">steps/second²</string>
     <string name="brick_set_velocity_to" tools:ignore="UnusedResources">"Set velocity to"</string>
     <string name="brick_set_velocity_unit" tools:ignore="UnusedResources">steps/second</string>
@@ -793,28 +836,28 @@
     <string name="brick_rotate_left" tools:ignore="UnusedResources">"Spin left"</string>
     <string name="brick_rotate_right" tools:ignore="UnusedResources">"Spin right"</string>
     <!-- Look bricks -->
-    <string name="brick_set_look" tools:ignore="UnusedResources">切換外觀為</string>
+    <string name="brick_set_look" tools:ignore="UnusedResources">Switch to look</string>
     <string name="brick_set_look_by_index" tools:ignore="UnusedResources">Switch to look with number</string>
     <string name="brick_and_wait">and wait</string>
-    <string name="brick_set_background" tools:ignore="UnusedResources">設定背景為</string>
+    <string name="brick_set_background" tools:ignore="UnusedResources">Set background</string>
     <string name="brick_set_background_and_wait" tools:ignore="UnusedResources">Set background and wait</string>
     <string name="brick_set_background_by_index" tools:ignore="UnusedResources">Set background to number</string>
     <string name="brick_when_background" tools:ignore="UnusedResources">When background changes to</string>
-    <string name="brick_set_size_to" tools:ignore="UnusedResources">設定大小為</string>
-    <string name="brick_change_size_by" tools:ignore="UnusedResources">設定大小增量</string>
-    <string name="brick_hide" tools:ignore="UnusedResources">隱藏</string>
-    <string name="brick_show" tools:ignore="UnusedResources">顯示</string>
-    <string name="brick_set_transparency" tools:ignore="UnusedResources">"設定透明度為 "</string>
-    <string name="brick_change_ghost_effect" tools:ignore="UnusedResources">"設定透明度增量 "</string>
-    <string name="brick_set_brightness" tools:ignore="UnusedResources">"設定亮度 "</string>
-    <string name="brick_change_brightness" tools:ignore="UnusedResources">"設定亮度增量 "</string>
+    <string name="brick_set_size_to" tools:ignore="UnusedResources">Set size to</string>
+    <string name="brick_change_size_by" tools:ignore="UnusedResources">Change size by</string>
+    <string name="brick_hide" tools:ignore="UnusedResources">Hide</string>
+    <string name="brick_show" tools:ignore="UnusedResources">Show</string>
+    <string name="brick_set_transparency" tools:ignore="UnusedResources">"Set transparency"</string>
+    <string name="brick_change_ghost_effect" tools:ignore="UnusedResources">"Change transparency"</string>
+    <string name="brick_set_brightness" tools:ignore="UnusedResources">"Set brightness"</string>
+    <string name="brick_change_brightness" tools:ignore="UnusedResources">"Change brightness"</string>
     <string name="brick_set_color" tools:ignore="UnusedResources">"Set color"</string>
     <string name="brick_change_color" tools:ignore="UnusedResources">"Change color"</string>
-    <string name="by_label" tools:ignore="UnusedResources">為</string>
-    <string name="to_label" tools:ignore="UnusedResources">為</string>
-    <string name="brick_clear_graphic_effect" tools:ignore="UnusedResources">清除外觀特效</string>
-    <string name="brick_next_look" tools:ignore="UnusedResources">下一個外觀</string>
-    <string name="brick_next_background">下一個背景</string>
+    <string name="by_label" tools:ignore="UnusedResources">by</string>
+    <string name="to_label" tools:ignore="UnusedResources">to</string>
+    <string name="brick_clear_graphic_effect" tools:ignore="UnusedResources">Clear graphic effects</string>
+    <string name="brick_next_look" tools:ignore="UnusedResources">Next look</string>
+    <string name="brick_next_background">Next background</string>
     <string name="brick_previous_look" tools:ignore="UnusedResources">Previous look</string>
     <string name="brick_previous_background">Previous background</string>
     <string name="brick_edit_look" tools:ignore="UnusedResources">Edit look</string>
@@ -824,7 +867,7 @@
     <string name="brick_flash" tools:ignore="UnusedResources">Turn flashlight</string>
     <string name="brick_flash_on" tools:ignore="UnusedResources">on</string>
     <string name="brick_flash_off" tools:ignore="UnusedResources">off</string>
-    <string name="brick_vibration" tools:ignore="UnusedResources">震動</string>
+    <string name="brick_vibration" tools:ignore="UnusedResources">Vibrate for</string>
     <string name="brick_ask_label" tools:ignore="UnusedResources">Ask</string>
     <string name="brick_ask_store" tools:ignore="UnusedResources">and store written answer in</string>
     <string name="brick_ask_default_question">What\'s your name?</string>
@@ -846,17 +889,17 @@
     <string name="brick_pen_size" tools:ignore="UnusedResources">Set pen size to</string>
     <string name="brick_pen_color" tools:ignore="UnusedResources">Set pen color to</string>
     <string name="brick_clear_background" tools:ignore="UnusedResources">Clear</string>
-    <string name="brick_stamp" tools:ignore="UnusedResources">圖章</string>
+    <string name="brick_stamp" tools:ignore="UnusedResources">Stamp</string>
     <!--  -->
     <!-- Sound bricks -->
-    <string name="brick_play_sound" tools:ignore="UnusedResources">播放音效</string>
+    <string name="brick_play_sound" tools:ignore="UnusedResources">Start sound</string>
     <string name="brick_play_sound_and_wait" tools:ignore="UnusedResources">Start sound and wait</string>
     <string name="brick_stop_sound" tools:ignore="UnusedResources">Stop sound</string>
-    <string name="brick_stop_all_sounds" tools:ignore="UnusedResources">停止所有音效</string>
-    <string name="brick_set_volume_to" tools:ignore="UnusedResources">設定音量</string>
-    <string name="brick_change_volume_by" tools:ignore="UnusedResources">設定音量增量</string>
-    <string name="brick_speak" tools:ignore="UnusedResources">對話</string>
-    <string name="brick_speak_default_value">哈囉!</string>
+    <string name="brick_stop_all_sounds" tools:ignore="UnusedResources">Stop all sounds</string>
+    <string name="brick_set_volume_to" tools:ignore="UnusedResources">Set volume to</string>
+    <string name="brick_change_volume_by" tools:ignore="UnusedResources">Change volume by</string>
+    <string name="brick_speak" tools:ignore="UnusedResources">Speak</string>
+    <string name="brick_speak_default_value">Hello!</string>
     <string name="brick_speak_and_wait" tools:ignore="UnusedResources">and wait</string>
     <string name="brick_start_listening_to_voice" tools:ignore="UnusedResources">Start listening to voice and store spoken words in</string>
     <string name="speech_recognition_not_available">Speech recognition isn\'t available.</string>
@@ -871,7 +914,7 @@
     <string name="play_drum" tools:ignore="UnusedResources">Play drum</string>
     <string name="beats" tools:ignore="UnusedResources">beats</string>
     <string name="play_note" tools:ignore="UnusedResources">Play note</string>
-    <string name="for_string" tools:ignore="UnusedResources">持續</string>
+    <string name="for_string" tools:ignore="UnusedResources">for</string>
     <!--  -->
     <!-- Embroidery bricks -->
     <string name="brick_stitch" tools:ignore="UnusedResources">Stitch</string>
@@ -887,14 +930,14 @@
     <!--  -->
     <!-- Device bricks -->
     <string name="brick_reset_timer" tools:ignore="UnusedResources">Reset timer</string>
-    <string name="brick_open" tools:ignore="UnusedResources">開啟 </string>
+    <string name="brick_open" tools:ignore="UnusedResources">Open</string>
     <string name="brick_in_browser" tools:ignore="UnusedResources">in browser</string>
     <!-- Control bricks -->
     <string name="brick_when_started" tools:ignore="UnusedResources">When scene starts</string>
-    <string name="brick_when" tools:ignore="UnusedResources">當物件被按時</string>
+    <string name="brick_when" tools:ignore="UnusedResources">When tapped</string>
     <string name="brick_when_condition_when" tools:ignore="UnusedResources">When</string>
     <string name="brick_when_becomes_true" tools:ignore="UnusedResources">becomes true</string>
-    <string name="brick_wait" tools:ignore="UnusedResources">等待</string>
+    <string name="brick_wait" tools:ignore="UnusedResources">Wait</string>
     <string name="brick_wait_until" tools:ignore="UnusedResources">Wait until</string>
     <string name="brick_wait_until_second_part" tools:ignore="UnusedResources">is true</string>
     <string name="brick_when_gamepad_button" tools:ignore="UnusedResources">When gamepad button</string>
@@ -903,39 +946,40 @@
     <string name="brick_stop_script" tools:ignore="UnusedResources">Stop</string>
     <string name="brick_stop_this_script" tools:ignore="UnusedResources">this script</string>
     <string name="brick_stop_all_scripts" tools:ignore="UnusedResources">all scripts</string>
-    <string name="brick_stop_other_scripts" tools:ignore="UnusedResources">此物件的其他腳本</string>
+    <string name="brick_stop_other_scripts" tools:ignore="UnusedResources">other scripts of this actor or object</string>
     <plurals name="second_plural">
-        <item quantity="other">"秒 "</item>
+        <item quantity="one">"second"</item>
+        <item quantity="other">"seconds"</item>
     </plurals>
-    <string name="brick_collision_receive" tools:ignore="UnusedResources">當發生物理碰撞與</string>
+    <string name="brick_collision_receive" tools:ignore="UnusedResources">When you bounce off</string>
     <string name="collision_with_anything">any edge, actor, or object</string>
-    <string name="brick_broadcast_receive" tools:ignore="UnusedResources">當接收到</string>
-    <string name="brick_broadcast" tools:ignore="UnusedResources">送出訊息</string>
-    <string name="brick_broadcast_wait" tools:ignore="UnusedResources">送出訊息並等待</string>
-    <string name="brick_scene_transition" tools:ignore="UnusedResources">繼續場景</string>
-    <string name="brick_scene_start" tools:ignore="UnusedResources">啟動場景</string>
-    <string name="brick_note" tools:ignore="UnusedResources">備註</string>
-    <string name="brick_think_bubble" tools:ignore="UnusedResources">思考</string>
-    <string name="brick_say_bubble" tools:ignore="UnusedResources">說</string>
-    <string name="brick_think_say_for_text" tools:ignore="UnusedResources">持續</string>
-    <string name="brick_forever" tools:ignore="UnusedResources">永遠重複執行</string>
+    <string name="brick_broadcast_receive" tools:ignore="UnusedResources">When you receive</string>
+    <string name="brick_broadcast" tools:ignore="UnusedResources">Broadcast</string>
+    <string name="brick_broadcast_wait" tools:ignore="UnusedResources">Broadcast and wait</string>
+    <string name="brick_scene_transition" tools:ignore="UnusedResources">Continue scene</string>
+    <string name="brick_scene_start" tools:ignore="UnusedResources">Start scene</string>
+    <string name="brick_note" tools:ignore="UnusedResources">Note</string>
+    <string name="brick_think_bubble" tools:ignore="UnusedResources">Think</string>
+    <string name="brick_say_bubble" tools:ignore="UnusedResources">Say</string>
+    <string name="brick_think_say_for_text" tools:ignore="UnusedResources">for</string>
+    <string name="brick_forever" tools:ignore="UnusedResources">Forever</string>
     <string name="brick_loop_for_values_from" tools:ignore="UnusedResources">For values from</string>
     <string name="brick_loop_for_each_value_from" tools:ignore="UnusedResources">For each value from</string>
     <string name="brick_loop_in" tools:ignore="UnusedResources">in</string>
-    <string name="brick_loop_to" tools:ignore="UnusedResources">為</string>
-    <string name="brick_repeat" tools:ignore="UnusedResources">重複執行</string>
-    <string name="brick_repeat_until" tools:ignore="UnusedResources">重複直到</string>
-    <string name="brick_when_touched" tools:ignore="UnusedResources">當螢幕被觸碰</string>
-    <string name="brick_clone" tools:ignore="UnusedResources">克隆一個</string>
-    <string name="brick_clone_this">自己</string>
-    <string name="brick_when_cloned" tools:ignore="UnusedResources">當作為克隆啟動</string>
-    <string name="brick_delete_this_clone" tools:ignore="UnusedResources">刪除此克隆</string>
+    <string name="brick_loop_to" tools:ignore="UnusedResources">to</string>
+    <string name="brick_repeat" tools:ignore="UnusedResources">Repeat</string>
+    <string name="brick_repeat_until" tools:ignore="UnusedResources">Repeat until</string>
+    <string name="brick_when_touched" tools:ignore="UnusedResources">When stage is tapped</string>
+    <string name="brick_clone" tools:ignore="UnusedResources">Create clone of</string>
+    <string name="brick_clone_this">yourself</string>
+    <string name="brick_when_cloned" tools:ignore="UnusedResources">When you start as a clone</string>
+    <string name="brick_delete_this_clone" tools:ignore="UnusedResources">Delete this clone</string>
     <string name="brick_assert_that" tools:ignore="UnusedResources">Assert</string>
     <string name="brick_is_equal_to" tools:ignore="UnusedResources">equals expected</string>
     <string name="brick_wait_till_idle" tools:ignore="UnusedResources">Wait until all other scripts have stopped</string>
     <string name="brick_tap_at" tools:ignore="UnusedResources">"Single tap at"</string>
     <string name="brick_touch_at" tools:ignore="UnusedResources">"Touch at"</string>
-    <string name="brick_tap_for" tools:ignore="UnusedResources">"持續"</string>
+    <string name="brick_tap_for" tools:ignore="UnusedResources">"for"</string>
     <string name="brick_touch_slide" tools:ignore="UnusedResources">"Touch and slide"</string>
     <string name="brick_touch_from_x" tools:ignore="UnusedResources">"from x:"</string>
     <string name="brick_finish_stage" tools:ignore="UnusedResources">Finish stage</string>
@@ -946,24 +990,28 @@
     <string name="brick_parameterized_assert" tools:ignore="UnusedResources">assert</string>
     <string name="brick_parameterized_equals" tools:ignore="UnusedResources">equals to expected item of</string>
     <plurals name="brick_parameterized_foreach_plural">
+        <item quantity="one">For each item of</item>
         <item quantity="other">For each tuple of items of</item>
     </plurals>
     <plurals name="brick_parameterized_stored_plural">
+        <item quantity="one">stored in variable with the same name</item>
         <item quantity="other">stored in variables with the same names</item>
     </plurals>
     <plurals name="list_selection_plural">
+        <item quantity="one">%d list selected</item>
         <item quantity="other">%d lists selected</item>
     </plurals>
     <plurals name="time_plural">
-        <item quantity="other">次</item>
+        <item quantity="one">time</item>
+        <item quantity="other">times</item>
     </plurals>
-    <string name="brick_loop_end">重複尾端</string>
-    <string name="brick_if_begin" tools:ignore="UnusedResources">判斷</string>
-    <string name="brick_if_begin_second_part" tools:ignore="UnusedResources">成立執行</string>
-    <string name="brick_if_else" tools:ignore="UnusedResources">不成立執行</string>
-    <string name="brick_if_end">判斷尾端</string>
-    <string name="brick_set_variable" tools:ignore="UnusedResources">設定變數</string>
-    <string name="brick_change_variable" tools:ignore="UnusedResources">變數增量</string>
+    <string name="brick_loop_end">End of loop</string>
+    <string name="brick_if_begin" tools:ignore="UnusedResources">If</string>
+    <string name="brick_if_begin_second_part" tools:ignore="UnusedResources">is true then</string>
+    <string name="brick_if_else" tools:ignore="UnusedResources">Else</string>
+    <string name="brick_if_end">End if</string>
+    <string name="brick_set_variable" tools:ignore="UnusedResources">Set variable</string>
+    <string name="brick_change_variable" tools:ignore="UnusedResources">Change variable</string>
     <string name="brick_write_variable_on_device" tools:ignore="UnusedResources">Write variable on device</string>
     <string name="brick_read_variable_from_device" tools:ignore="UnusedResources">Read variable from device</string>
     <string name="brick_write_variable_to_file_top" tools:ignore="UnusedResources">Write variable</string>
@@ -972,26 +1020,26 @@
     <string name="brick_write_variable_to_file_success">"Data successfully written to %1$s"</string>
     <string name="brick_read_variable_from_file_top" tools:ignore="UnusedResources">Read variable</string>
     <string name="brick_read_variable_from_file_center" tools:ignore="UnusedResources">from file</string>
-    <string name="brick_read_variable_from_file_bottom" tools:ignore="UnusedResources">AND</string>
+    <string name="brick_read_variable_from_file_bottom" tools:ignore="UnusedResources">and</string>
     <string name="brick_read_variable_from_file_keep">keep the file</string>
     <string name="brick_read_variable_from_file_delete">delete the file</string>
     <string name="brick_write_list_on_device" tools:ignore="UnusedResources">Write list on device</string>
     <string name="brick_read_list_from_device" tools:ignore="UnusedResources">Read list from device</string>
-    <string name="brick_note_default_value">填寫備註內容</string>
-    <string name="brick_think_bubble_default_value">嗯……！</string>
-    <string name="brick_say_bubble_default_value">哈囉!</string>
-    <string name="brick_broadcast_default_value">"訊息1"</string>
-    <string name="brick_add_item_to_userlist_add" tools:ignore="UnusedResources">新增</string>
-    <string name="brick_add_item_to_userlist" tools:ignore="UnusedResources">到清單</string>
+    <string name="brick_note_default_value">add comment here&#8230;</string>
+    <string name="brick_think_bubble_default_value">Hmmmm!</string>
+    <string name="brick_say_bubble_default_value">Hello!</string>
+    <string name="brick_broadcast_default_value">"new message"</string>
+    <string name="brick_add_item_to_userlist_add" tools:ignore="UnusedResources">Add</string>
+    <string name="brick_add_item_to_userlist" tools:ignore="UnusedResources">to list</string>
     <string name="brick_clear_userlist" tools:ignore="UnusedResources">Delete all items from list</string>
-    <string name="brick_delete_item_from_userlist_delete" tools:ignore="UnusedResources">從清單</string>
-    <string name="brick_delete_item_from_userlist" tools:ignore="UnusedResources">刪除資料在位置</string>
-    <string name="brick_insert_item_into_userlist_insert_into" tools:ignore="UnusedResources">插入資料</string>
-    <string name="brick_insert_item_into_userlist_into_list" tools:ignore="UnusedResources">到清單</string>
-    <string name="brick_insert_item_into_userlist_at_position" tools:ignore="UnusedResources">在位置</string>
-    <string name="brick_replace_item_in_userlist_replace_in_list" tools:ignore="UnusedResources">更換清單</string>
-    <string name="brick_replace_item_in_userlist_item_at_index" tools:ignore="UnusedResources">的資料在位置</string>
-    <string name="brick_replace_item_in_userlist_with_value" tools:ignore="UnusedResources">替換為</string>
+    <string name="brick_delete_item_from_userlist_delete" tools:ignore="UnusedResources">Delete item from list</string>
+    <string name="brick_delete_item_from_userlist" tools:ignore="UnusedResources">at position</string>
+    <string name="brick_insert_item_into_userlist_insert_into" tools:ignore="UnusedResources">Insert</string>
+    <string name="brick_insert_item_into_userlist_into_list" tools:ignore="UnusedResources">into list</string>
+    <string name="brick_insert_item_into_userlist_at_position" tools:ignore="UnusedResources">at position</string>
+    <string name="brick_replace_item_in_userlist_replace_in_list" tools:ignore="UnusedResources">Replace item in list</string>
+    <string name="brick_replace_item_in_userlist_item_at_index" tools:ignore="UnusedResources">at position</string>
+    <string name="brick_replace_item_in_userlist_with_value" tools:ignore="UnusedResources">with</string>
     <string name="brick_web_request" tools:ignore="UnusedResources">Send web request to</string>
     <string name="brick_web_request_default_value">https://catrob.at/joke</string>
     <string name="brick_web_request_result" tools:ignore="UnusedResources">and store answer in</string>
@@ -1018,7 +1066,7 @@
     <string name="brick_store_csv_into_userlist_store" tools:ignore="UnusedResources">Store column</string>
     <string name="brick_store_csv_into_userlist_of" tools:ignore="UnusedResources">of the</string>
     <string name="brick_store_csv_into_userlist_csv" tools:ignore="UnusedResources">comma-separated values</string>
-    <string name="brick_store_csv_into_userlist_into" tools:ignore="UnusedResources">到清單</string>
+    <string name="brick_store_csv_into_userlist_into" tools:ignore="UnusedResources">into list</string>
     <string name="brick_store_csv_into_userlist_data">kitty,cute\npuppy,naughty\noctopus,intelligent</string>
     <!--  -->
     <!--Instruments-->
@@ -1067,11 +1115,11 @@
     <!-- Default Values -->
     <string name="default_project_name">My project</string>
     <string name="default_variable_name">Variable</string>
-    <string name="default_scene_name">Scene %1$d</string>
+    <string name="default_scene_name">Scene (%1$d)</string>
     <string name="default_script_group_name">Script group</string>
     <string name="default_broadcast_message_name">Message</string>
     <string name="default_list_name">List</string>
-    <string name="default_project_background_name">背景</string>
+    <string name="default_project_background_name">Background</string>
     <string name="default_project_cloud_name">Clouds</string>
     <string name="default_project_cloud_sprite_name_1">Clouds1</string>
     <string name="default_project_cloud_sprite_name_2">Clouds2</string>
@@ -1087,7 +1135,7 @@
     <!--suppress UnusedResources -->
     <string name="default_project_inner_loop">Inner Loop</string>
     <!-- Default ChromeCast Values -->
-    <string name="default_cast_project_background_name">背景</string>
+    <string name="default_cast_project_background_name">Background</string>
     <string name="default_cast_project_cloud_name">Clouds</string>
     <string name="default_cast_project_cloud_sprite_name1">Clouds1</string>
     <string name="default_cast_project_cloud_sprite_name2">Clouds2</string>
@@ -1098,11 +1146,11 @@
     <string name="default_cast_project_sprites_bird_name_wing_down_left">Bird Wings down left</string>
     <string name="default_cast_project_sprites_tweet_1">Tweet1</string>
     <string name="default_cast_project_sprites_tweet_2">Tweet2</string>
-    <string name="default_cast_project_var_direction">方向</string>
+    <string name="default_cast_project_var_direction">direction</string>
     <string name="default_cast_project_name">My first Chromecast project</string>
     <!-- Default Drone Values -->
-    <string name="drone_brick_set_text">文字</string>
-    <string name="drone_brick_set_x">X：</string>
+    <string name="drone_brick_set_text">Text</string>
+    <string name="drone_brick_set_x">X:</string>
     <!--  -->
     <!-- Drone config spinner values  -->
     <string name="drone_config_indoor_with_hull">indoor with hull</string>
@@ -1136,18 +1184,18 @@
     <string name="notification_screenshot_ok">Preview image saved</string>
     <string name="notification_download_project_cancel">Cancel project download</string>
     <string name="notification_reconvert_download_program_cancel">Canceled downloading/reconverting project</string>
-    <string name="notification_upload_title_pending">"上傳中 "</string>
-    <string name="notification_upload_title_finished">"檢視 "</string>
-    <string name="notification_upload_pending">上傳進行中</string>
-    <string name="notification_upload_finished">上傳成功</string>
-    <string name="notification_upload_rejected">上傳程式檔被拒絕</string>
-    <string name="notification_upload_retry">重試</string>
+    <string name="notification_upload_title_pending">"Uploading"</string>
+    <string name="notification_upload_title_finished">"Look at"</string>
+    <string name="notification_upload_pending">Upload in progress</string>
+    <string name="notification_upload_finished">Upload successful</string>
+    <string name="notification_upload_rejected">Uploaded project rejected</string>
+    <string name="notification_upload_retry">Retry</string>
     <string name="notification_open_play_store">Open App store</string>
-    <string name="notification_download_title_pending">"下載中 "</string>
-    <string name="notification_download_pending">下載進行中</string>
-    <string name="notification_download_finished">下載成功</string>
-    <string name="notification_title_open">"開啟 "</string>
-    <string name="size_of_project">大小:</string>
+    <string name="notification_download_title_pending">"Downloading"</string>
+    <string name="notification_download_pending">Download in progress</string>
+    <string name="notification_download_finished">Download successful</string>
+    <string name="notification_title_open">"Open"</string>
+    <string name="size_of_project">Size:</string>
     <!--  -->
     <!-- Runtime permission messages -->
     <string name="runtime_permission_general">This app needs the requested permissions to function properly. E.g., the
@@ -1155,24 +1203,24 @@ Camera brick needs access to the device\'s camera, the \"location\" formula elem
 device\'s geolocation sensor, and in order to import and export projects from and to the local memory, the app
 needs read and write access to it. You can always change permissions through your device\'s settings.</string>
     <!-- Error messages -->
-    <string name="error_project_upload">上傳程式檔時出錯。</string>
-    <string name="error_project_download">下載程式檔時出錯。</string>
+    <string name="error_project_upload">Something went wrong while uploading the project.</string>
+    <string name="error_project_download">Something went wrong while downloading the project.</string>
     <string name="error_project_already_in_queue">"Project %s already in queue."</string>
     <string name="error_could_not_decode_project_name_from_url">"Your download could not be
         started, seems there is a problem with our server."</string>
-    <string name="error_new_project">新建程式檔時出錯。</string>
+    <string name="error_new_project">Something went wrong while creating a new project.</string>
     <string name="error_rename_scene">Something went wrong while renaming the scene.</string>
-    <string name="error_load_project">載入程式檔時出錯。</string>
+    <string name="error_load_project">Something went wrong while loading the project.</string>
     <string name="error_screenshot_failed">Something went wrong while saving the preview image.</string>
-    <string name="error_internet_connection">發生未知的錯誤。檢查您的網路連線。</string>
+    <string name="error_internet_connection">An unknown error occurred. Check your Internet connection.</string>
     <string name="error_project_compatibility">The project is not compatible with this version of the app.</string>
     <string name="error_outdated_version">This app version is outdated. Update now?</string>
     <string name="error_upload_project_with_default_name">You cannot upload a project with the name \"My first project\".
         Please rename the project.</string>
     <string name="error_upload_default_project">You cannot upload an unmodified example project. Please
         change something and try again.</string>
-    <string name="error_adding_brick">新增這個程式塊時出錯。</string>
-    <string name="error_copying_brick">複製這個程式塊時出錯。</string>
+    <string name="error_adding_brick">Something went wrong while adding this brick.</string>
+    <string name="error_copying_brick">Something went wrong while copying this brick.</string>
     <string name="error_rename_incompatible_project">Renaming an incompatible project is not possible.</string>
     <string name="error_embroidery_file_export">Something went wrong while sharing the embroidery file.</string>
     <string name="error_embroidery_file_write">Something went wrong while writing the embroidery file.</string>
@@ -1188,32 +1236,32 @@ needs read and write access to it. You can always change permissions through you
     <!--  -->
     <!-- Bluetooth Connection Strings -->
     <string name="notification_blueth_err">Can\'t enable Bluetooth, please try turning it off and on again.</string>
-    <string name="title_paired_devices">配對裝置</string>
-    <string name="title_other_devices">新裝置</string>
+    <string name="title_paired_devices">Paired devices</string>
+    <string name="title_other_devices">New devices</string>
     <string name="searching_devices">Looking for devices&#8230;</string>
-    <string name="button_scan">搜尋藍牙設備</string>
+    <string name="button_scan">Search Bluetooth devices</string>
     <string name="select_device">Select device:</string>
-    <string name="connecting_please_wait">連接到你的設備,\n請等待&#8230;</string>
+    <string name="connecting_please_wait">Connecting to your device.\nPlease wait&#8230;</string>
     <!-- <string name="pairing_message">After pairing, connect.</string> -->
-    <string name="bt_connection_failed">設備連接失敗!</string>
-    <string name="none_found">沒有未配對的設備</string>
-    <string name="none_paired">沒有已配對的設備</string>
+    <string name="bt_connection_failed">Connection to device failed!</string>
+    <string name="none_found">No unpaired devices found</string>
+    <string name="none_paired">No paired devices found</string>
     <!--  -->
     <!-- Arduino Bricks -->
-    <string name="brick_arduino_select_digital_value" tools:ignore="UnusedResources">設定 Arduino 數位腳位資料</string>
-    <string name="brick_arduino_select_analog_value" tools:ignore="UnusedResources">設定 Arduino PWM 腳位資料</string>
-    <string name="brick_arduino_set_pin_value_to" tools:ignore="UnusedResources">為</string>
+    <string name="brick_arduino_select_digital_value" tools:ignore="UnusedResources">Set Arduino digital pin</string>
+    <string name="brick_arduino_select_analog_value" tools:ignore="UnusedResources">Set Arduino PWM~ pin</string>
+    <string name="brick_arduino_set_pin_value_to" tools:ignore="UnusedResources">to</string>
     <!--  -->
     <!-- Raspi Bricks -->
-    <string name="brick_raspi_select_digital_value" tools:ignore="UnusedResources">設定樹莓派腳位資料</string>
-    <string name="brick_raspi_set_pin_value_to" tools:ignore="UnusedResources">為</string>
-    <string name="brick_raspi_if_begin" tools:ignore="UnusedResources">如果树莓派脚位资料</string>
-    <string name="brick_raspi_if_begin_second_part" tools:ignore="UnusedResources">成立執行</string>
-    <string name="brick_raspi_when_begin" tools:ignore="UnusedResources">當樹莓派腳位資料</string>
-    <string name="brick_raspi_when_equals" tools:ignore="UnusedResources">已更改為</string>
-    <string name="brick_raspi_pressed_text">高</string>
-    <string name="brick_raspi_released_text">低</string>
-    <string name="brick_raspi_set_pwm" tools:ignore="UnusedResources">設定樹莓派PWM腳位資料</string>
+    <string name="brick_raspi_select_digital_value" tools:ignore="UnusedResources">Set Raspberry Pi pin</string>
+    <string name="brick_raspi_set_pin_value_to" tools:ignore="UnusedResources">to</string>
+    <string name="brick_raspi_if_begin" tools:ignore="UnusedResources">If Raspberry Pi pin</string>
+    <string name="brick_raspi_if_begin_second_part" tools:ignore="UnusedResources">is true then</string>
+    <string name="brick_raspi_when_begin" tools:ignore="UnusedResources">When Raspberry Pi pin</string>
+    <string name="brick_raspi_when_equals" tools:ignore="UnusedResources">changes to</string>
+    <string name="brick_raspi_pressed_text">high</string>
+    <string name="brick_raspi_released_text">low</string>
+    <string name="brick_raspi_set_pwm" tools:ignore="UnusedResources">Set Raspberry Pi PWM pin</string>
     <!--  -->
     <!-- Raspi Settings -->
     <string name="raspi_settings_title_name">Raspberry Pi settings</string>
@@ -1221,21 +1269,21 @@ needs read and write access to it. You can always change permissions through you
     <string name="error_connecting_to">Error: Could not connect to %s : %d</string>
     <!--  -->
     <!-- Lego Mindstorms Strings -->
-    <string name="nxt_brick_motor_move" tools:ignore="UnusedResources">設定樂高NXT馬達</string>
-    <string name="nxt_motor_speed_to" tools:ignore="UnusedResources">為</string>
+    <string name="nxt_brick_motor_move" tools:ignore="UnusedResources">Set NXT motor</string>
+    <string name="nxt_motor_speed_to" tools:ignore="UnusedResources">to</string>
     <string name="nxt_motor_speed" tools:ignore="UnusedResources">speed</string>
-    <string name="nxt_brick_motor_turn_angle" tools:ignore="UnusedResources">轉動樂高NXT馬達</string>
-    <string name="nxt_motor_move_by" tools:ignore="UnusedResources">為</string>
+    <string name="nxt_brick_motor_turn_angle" tools:ignore="UnusedResources">Turn NXT motor</string>
+    <string name="nxt_motor_move_by" tools:ignore="UnusedResources">by</string>
     <string name="nxt_motor_stop" tools:ignore="UnusedResources">Stop NXT motor</string>
     <string name="nxt_play_tone" tools:ignore="UnusedResources">Play NXT tone</string>
     <string name="nxt_tone_duration" tools:ignore="UnusedResources">Duration</string>
-    <string name="nxt_tone_frequency" tools:ignore="UnusedResources">聲音頻率</string>
-    <string name="nxt_tone_hundred_hz" tools:ignore="UnusedResources">100Hz(赫茲)</string>
+    <string name="nxt_tone_frequency" tools:ignore="UnusedResources">Frequency</string>
+    <string name="nxt_tone_hundred_hz" tools:ignore="UnusedResources">×100Hz</string>
     <string name="nxt_motor_a">A</string>
     <string name="nxt_motor_b">B</string>
     <string name="nxt_motor_c">C</string>
     <string name="nxt_motor_b_and_c">B+C</string>
-    <string name="nxt_motor_all">全部</string>
+    <string name="nxt_motor_all">All</string>
     <string name="nxt_choose_sensor_1">Sensor connected on port 1</string>
     <string name="nxt_choose_sensor_2">Sensor connected on port 2</string>
     <string name="nxt_choose_sensor_3">Sensor connected on port 3</string>
@@ -1290,19 +1338,19 @@ needs read and write access to it. You can always change permissions through you
     <string name="ev3_motor_c">C</string>
     <string name="ev3_motor_d">D</string>
     <string name="ev3_motor_b_and_c">B+C</string>
-    <string name="ev3_motor_all">全部</string>
+    <string name="ev3_motor_all">All</string>
     <string name="ev3_play_tone" tools:ignore="UnusedResources">Play EV3 tone</string>
-    <string name="ev3_tone_duration_for" tools:ignore="UnusedResources">持續</string>
+    <string name="ev3_tone_duration_for" tools:ignore="UnusedResources">for</string>
     <string name="ev3_tone_volume" tools:ignore="UnusedResources">Volume</string>
     <string name="ev3_tone_percent" tools:ignore="UnusedResources">%</string>
     <string name="ev3_motor_stop" tools:ignore="UnusedResources">Stop EV3 motor</string>
     <string name="ev3_motor_move" tools:ignore="UnusedResources">Set EV3 motor</string>
-    <string name="ev3_brick_motor_turn_angle" tools:ignore="UnusedResources">轉動樂高EV3馬達</string>
-    <string name="ev3_motor_move_by" tools:ignore="UnusedResources">為</string>
+    <string name="ev3_brick_motor_turn_angle" tools:ignore="UnusedResources">Turn EV3 motor</string>
+    <string name="ev3_motor_move_by" tools:ignore="UnusedResources">by</string>
     <string name="ev3_set_led_status" tools:ignore="UnusedResources">Set EV3 LED status</string>
     <string name="ev3_led_status_off">Off</string>
-    <string name="ev3_led_status_green">綠</string>
-    <string name="ev3_led_status_red">紅</string>
+    <string name="ev3_led_status_green">Green</string>
+    <string name="ev3_led_status_red">Red</string>
     <string name="ev3_led_status_orange">Orange</string>
     <string name="ev3_led_status_green_flashing">Green flashing</string>
     <string name="ev3_led_status_red_flashing">Red flashing</string>
@@ -1330,7 +1378,7 @@ needs read and write access to it. You can always change permissions through you
     <string name="brick_drone_set_vertical_speed">Vertical speed limit</string>
     <string name="brick_drone_set_rotation_speed">Rotation speed limit</string>
     <string name="brick_drone_set_tilt_limit">Tilt limit</string>
-    <string name="brick_drone_with." tools:ignore="UnusedResources">替換為</string>
+    <string name="brick_drone_with." tools:ignore="UnusedResources">with</string>
     <string name="brick_drone_power" tools:ignore="UnusedResources">power</string>
     <!--  -->
     <!-- Drone play led animation strings -->
@@ -1341,8 +1389,8 @@ needs read and write access to it. You can always change permissions through you
     <string name="drone_animation_snakegreenred" tools:ignore="UnusedResources">Snake green red</string>
     <string name="drone_animation_fire" tools:ignore="UnusedResources">Fire</string>
     <string name="drone_animation_standard" tools:ignore="UnusedResources">Standard</string>
-    <string name="drone_animation_red" tools:ignore="UnusedResources">紅</string>
-    <string name="drone_animation_green" tools:ignore="UnusedResources">綠</string>
+    <string name="drone_animation_red" tools:ignore="UnusedResources">Red</string>
+    <string name="drone_animation_green" tools:ignore="UnusedResources">Green</string>
     <string name="drone_animation_redsnake" tools:ignore="UnusedResources">Red snake</string>
     <string name="drone_animation_blank" tools:ignore="UnusedResources">Blank</string>
     <string name="drone_animation_rightmissile" tools:ignore="UnusedResources">Right missile</string>
@@ -1364,12 +1412,12 @@ needs read and write access to it. You can always change permissions through you
     <string name="brick_jumping_sumo_jump_high" tools:ignore="UnusedResources">Jump Jumping Sumo high</string>
     <string name="brick_jumping_sumo_rotate_left" tools:ignore="UnusedResources">Turn Jumping Sumo left</string>
     <string name="brick_jumping_sumo_rotate_right" tools:ignore="UnusedResources">Turn Jumping Sumo right</string>
-    <string name="brick_jumping_sumo_rotate_text" tools:ignore="UnusedResources">度</string>
+    <string name="brick_jumping_sumo_rotate_text" tools:ignore="UnusedResources">ਡਿਗਰੀ</string>
     <string name="brick_jumping_sumo_turn" tools:ignore="UnusedResources">Flip Jumping Sumo</string>
     <string name="brick_jumping_sumo_taking_picture" tools:ignore="UnusedResources">Taking picture Jumping Sumo</string>
     <!--  -->
     <!-- defaultJumpingSumoValues -->
-    <string name="default_jumping_sumo_project_sprites_sound" tools:ignore="UnusedResources">音效</string>
+    <string name="default_jumping_sumo_project_sprites_sound" tools:ignore="UnusedResources">Sound</string>
     <!--  -->
     <!-- Jumping Sumo animation strings -->
     <string name="animation_spin" tools:ignore="UnusedResources">Spin</string>
@@ -1403,9 +1451,9 @@ needs read and write access to it. You can always change permissions through you
     <string name="phiro_seconds" tools:ignore="UnusedResources">seconds</string>
     <!-- light -->
     <string name="brick_phiro_rgb_led_action" tools:ignore="UnusedResources">Set Phiro light</string>
-    <string name="phiro_rgb_led_red" tools:ignore="UnusedResources">紅</string>
-    <string name="phiro_rgb_led_green" tools:ignore="UnusedResources">綠</string>
-    <string name="phiro_rgb_led_blue" tools:ignore="UnusedResources">藍</string>
+    <string name="phiro_rgb_led_red" tools:ignore="UnusedResources">Red</string>
+    <string name="phiro_rgb_led_green" tools:ignore="UnusedResources">Green</string>
+    <string name="phiro_rgb_led_blue" tools:ignore="UnusedResources">Blue</string>
     <!--  -->
     <!-- Phiro tone strings -->
     <string name="phiro_tone_do">Do</string>
@@ -1417,13 +1465,13 @@ needs read and write access to it. You can always change permissions through you
     <string name="phiro_tone_ti">Ti</string>
     <!--  -->
     <!-- Phiro motor strings -->
-    <string name="phiro_motor_left">左</string>
-    <string name="phiro_motor_right">右</string>
+    <string name="phiro_motor_left">Left</string>
+    <string name="phiro_motor_right">Right</string>
     <string name="phiro_motor_both">Both</string>
     <!--  -->
     <!-- Phiro light strings -->
-    <string name="phiro_light_left">左</string>
-    <string name="phiro_light_right">右</string>
+    <string name="phiro_light_left">Left</string>
+    <string name="phiro_light_right">Right</string>
     <string name="phiro_light_both">Both</string>
     <!--  -->
     <!-- Phiro sensor strings -->
@@ -1439,65 +1487,65 @@ needs read and write access to it. You can always change permissions through you
     <string name="color_blue">blue</string>
     <!-- -->
     <!-- Formula editor strings -->
-    <string name="formula_editor_data">變數資料</string>
-    <string name="formula_editor_true">真</string>
-    <string name="formula_editor_false">假</string>
+    <string name="formula_editor_data">Data</string>
+    <string name="formula_editor_true">true</string>
+    <string name="formula_editor_false">false</string>
     <string name="formula_editor_decimal_mark" tools:ignore="UnusedResources">.</string>
-    <string name="formula_editor_title">修改公式</string>
-    <string name="formula_editor_changes_discarded">放棄修改!</string>
+    <string name="formula_editor_title">Formula editor</string>
+    <string name="formula_editor_changes_discarded">Changes discarded!</string>
     <string name="formula_editor_parse_fail">Formula is not valid!</string>
-    <string name="formula_nothing_selected">定義輸入值</string>
-    <string name="formula_editor_parse_fail_formula_too_long">公式太長!</string>
-    <string name="formula_editor_choose_object_variable">物件屬性</string>
+    <string name="formula_nothing_selected">Define input value</string>
+    <string name="formula_editor_parse_fail_formula_too_long">Formula too long!</string>
+    <string name="formula_editor_choose_object_variable">Properties of this actor or object</string>
     <string name="formula_editor_bracket_open">(</string>
     <string name="formula_editor_bracket_close">)</string>
-    <string name="formula_editor_function_sin" tools:ignore="UnusedResources">sin</string>
-    <string name="formula_editor_function_sin_parameter">(0)</string>
-    <string name="formula_editor_function_cos" tools:ignore="UnusedResources">cos</string>
-    <string name="formula_editor_function_cos_parameter">(0)</string>
-    <string name="formula_editor_function_tan" tools:ignore="UnusedResources">tan</string>
-    <string name="formula_editor_function_tan_parameter">(0)</string>
-    <string name="formula_editor_function_ln" tools:ignore="UnusedResources">ln</string>
-    <string name="formula_editor_function_ln_parameter">(0)</string>
-    <string name="formula_editor_function_log" tools:ignore="UnusedResources">log</string>
-    <string name="formula_editor_function_log_parameter">(0)</string>
+    <string name="formula_editor_function_sin" tools:ignore="UnusedResources">sine</string>
+    <string name="formula_editor_function_sin_parameter">(90)</string>
+    <string name="formula_editor_function_cos" tools:ignore="UnusedResources">cosine</string>
+    <string name="formula_editor_function_cos_parameter">(360)</string>
+    <string name="formula_editor_function_tan" tools:ignore="UnusedResources">tangent</string>
+    <string name="formula_editor_function_tan_parameter">(45)</string>
+    <string name="formula_editor_function_ln" tools:ignore="UnusedResources">natural logarithm</string>
+    <string name="formula_editor_function_ln_parameter">(2.718281828459)</string>
+    <string name="formula_editor_function_log" tools:ignore="UnusedResources">decimal logarithm</string>
+    <string name="formula_editor_function_log_parameter">(10)</string>
     <string name="formula_editor_function_pi" tools:ignore="UnusedResources">pi</string>
     <string name="formula_editor_function_pi_parameter"></string>
     <string name="formula_editor_object_color" tools:ignore="UnusedResources">color</string>
-    <string name="formula_editor_function_sqrt" tools:ignore="UnusedResources">sqrt</string>
-    <string name="formula_editor_function_sqrt_parameter">(0)</string>
-    <string name="formula_editor_function_rand" tools:ignore="UnusedResources">random</string>
-    <string name="formula_editor_function_rand_parameter">(0,1)</string>
-    <string name="formula_editor_function_abs" tools:ignore="UnusedResources">abs</string>
-    <string name="formula_editor_function_abs_parameter">(0)</string>
+    <string name="formula_editor_function_sqrt" tools:ignore="UnusedResources">square root</string>
+    <string name="formula_editor_function_sqrt_parameter">(4)</string>
+    <string name="formula_editor_function_rand" tools:ignore="UnusedResources">random value from to</string>
+    <string name="formula_editor_function_rand_parameter">(1,6)</string>
+    <string name="formula_editor_function_abs" tools:ignore="UnusedResources">absolute value</string>
+    <string name="formula_editor_function_abs_parameter">(1)</string>
     <string name="formula_editor_function_round" tools:ignore="UnusedResources">round</string>
-    <string name="formula_editor_function_round_parameter">(0)</string>
-    <string name="formula_editor_function_mod" tools:ignore="UnusedResources">mod</string>
-    <string name="formula_editor_function_mod_parameter">(1,1)</string>
-    <string name="formula_editor_function_arcsin" tools:ignore="UnusedResources">arcsin</string>
-    <string name="formula_editor_function_arcsin_parameter">(0)</string>
-    <string name="formula_editor_function_arccos" tools:ignore="UnusedResources">arccos</string>
+    <string name="formula_editor_function_round_parameter">(1.6)</string>
+    <string name="formula_editor_function_mod" tools:ignore="UnusedResources">modulo</string>
+    <string name="formula_editor_function_mod_parameter">(3,2)</string>
+    <string name="formula_editor_function_arcsin" tools:ignore="UnusedResources">arcsine</string>
+    <string name="formula_editor_function_arcsin_parameter">(0.5)</string>
+    <string name="formula_editor_function_arccos" tools:ignore="UnusedResources">arccosine</string>
     <string name="formula_editor_function_arccos_parameter">(0)</string>
-    <string name="formula_editor_function_arctan" tools:ignore="UnusedResources">arctan</string>
-    <string name="formula_editor_function_arctan_parameter">(0)</string>
+    <string name="formula_editor_function_arctan" tools:ignore="UnusedResources">arctangent</string>
+    <string name="formula_editor_function_arctan_parameter">(1)</string>
     <string name="formula_editor_function_arctan2" tools:ignore="UnusedResources">arctangent2</string>
     <string name="formula_editor_function_arctan2_parameter">(-1, 0)</string>
-    <string name="formula_editor_function_exp" tools:ignore="UnusedResources">exp</string>
-    <string name="formula_editor_function_exp_parameter">(0)</string>
+    <string name="formula_editor_function_exp" tools:ignore="UnusedResources">exponent</string>
+    <string name="formula_editor_function_exp_parameter">(1)</string>
     <string name="formula_editor_function_power" tools:ignore="UnusedResources">power</string>
     <string name="formula_editor_function_power_parameter">(2,3)</string>
     <string name="formula_editor_function_floor" tools:ignore="UnusedResources">floor</string>
     <string name="formula_editor_function_floor_parameter">(0.7)</string>
     <string name="formula_editor_function_ceil" tools:ignore="UnusedResources">ceiling</string>
     <string name="formula_editor_function_ceil_parameter">(0.3)</string>
-    <string name="formula_editor_function_max" tools:ignore="UnusedResources">max</string>
-    <string name="formula_editor_function_max_parameter">(0,1)</string>
-    <string name="formula_editor_function_min" tools:ignore="UnusedResources">min</string>
-    <string name="formula_editor_function_min_parameter">(0,1)</string>
+    <string name="formula_editor_function_max" tools:ignore="UnusedResources">maximum of</string>
+    <string name="formula_editor_function_max_parameter">(5,4)</string>
+    <string name="formula_editor_function_min" tools:ignore="UnusedResources">minimum of</string>
+    <string name="formula_editor_function_min_parameter">(7,2)</string>
     <string name="formula_editor_function_if_then_else">if then else</string>
     <string name="formula_editor_function_if_then_else_parameter">(false, 2, 3)</string>
-    <string name="formula_editor_function_true" tools:ignore="UnusedResources">TRUE</string>
-    <string name="formula_editor_function_false" tools:ignore="UnusedResources">FALSE</string>
+    <string name="formula_editor_function_true" tools:ignore="UnusedResources">true</string>
+    <string name="formula_editor_function_false" tools:ignore="UnusedResources">false</string>
     <string name="formula_editor_function_length" tools:ignore="UnusedResources">length</string>
     <string name="formula_editor_function_length_parameter">(\'hello world\')</string>
     <string name="formula_editor_function_letter" tools:ignore="UnusedResources">letter</string>
@@ -1529,16 +1577,16 @@ needs read and write access to it. You can always change permissions through you
     <string name="formula_editor_function_number_of_current_touches">number of current touches</string>
     <string name="formula_editor_function_index_of_current_touch">index of current touch</string>
     <string name="formula_editor_function_no_parameter"></string>
-    <string name="formula_editor_function_touch_parameter">(0)</string>
-    <string name="formula_editor_function_list_item" tools:ignore="UnusedResources">element</string>
-    <string name="formula_editor_function_list_item_parameter">(1,*清單名稱*)</string>
+    <string name="formula_editor_function_touch_parameter">(1)</string>
+    <string name="formula_editor_function_list_item" tools:ignore="UnusedResources">item</string>
+    <string name="formula_editor_function_list_item_parameter">(1,*list name*)</string>
     <string name="formula_editor_function_contains" tools:ignore="UnusedResources">contains</string>
-    <string name="formula_editor_function_contains_parameter">(*清單名稱*,1)</string>
+    <string name="formula_editor_function_contains_parameter">(*list name*,1)</string>
     <string name="formula_editor_function_index_of_item" tools:ignore="UnusedResources">item\'s index</string>
-    <string name="formula_editor_function_index_of_item_parameter">(1,*清單名稱*)</string>
-    <string name="formula_editor_function_number_of_items" tools:ignore="UnusedResources">清單資料數</string>
-    <string name="formula_editor_function_number_of_items_parameter">(*清單名稱*)</string>
-    <string name="formula_editor_function_collision">碰到物件</string>
+    <string name="formula_editor_function_index_of_item_parameter">(1,*list name*)</string>
+    <string name="formula_editor_function_number_of_items" tools:ignore="UnusedResources">number of items</string>
+    <string name="formula_editor_function_number_of_items_parameter">(*list name*)</string>
+    <string name="formula_editor_function_collision">touches actor or object</string>
     <string name="formula_editor_function_collides_with_edge" tools:ignore="UnusedResources">touches edge</string>
     <string name="formula_editor_function_touched" tools:ignore="UnusedResources">touches finger</string>
     <string name="formula_editor_function_collides_with_color">touches color</string>
@@ -1546,18 +1594,18 @@ needs read and write access to it. You can always change permissions through you
     <string name="formula_editor_sensor_color_at_x_y">color at x y</string>
     <string name="formula_editor_sensor_color_equals_color" tools:ignore="UnusedResources">color equals color with %
         tolerance</string>
-    <string name="formula_editor_sensor_x_acceleration" tools:ignore="UnusedResources">加速度感測器x軸</string>
-    <string name="formula_editor_sensor_y_acceleration" tools:ignore="UnusedResources">加速度感測器y軸</string>
-    <string name="formula_editor_sensor_z_acceleration" tools:ignore="UnusedResources">加速度感測器z軸</string>
-    <string name="formula_editor_sensor_compass_direction" tools:ignore="UnusedResources">電子羅盤方向</string>
+    <string name="formula_editor_sensor_x_acceleration" tools:ignore="UnusedResources">acceleration x</string>
+    <string name="formula_editor_sensor_y_acceleration" tools:ignore="UnusedResources">acceleration y</string>
+    <string name="formula_editor_sensor_z_acceleration" tools:ignore="UnusedResources">acceleration z</string>
+    <string name="formula_editor_sensor_compass_direction" tools:ignore="UnusedResources">compass direction</string>
     <string name="formula_editor_sensor_latitude" tools:ignore="UnusedResources">latitude</string>
     <string name="formula_editor_sensor_longitude" tools:ignore="UnusedResources">longitude</string>
     <string name="formula_editor_sensor_location_accuracy" tools:ignore="UnusedResources">location accuracy</string>
     <string name="formula_editor_sensor_altitude" tools:ignore="UnusedResources">altitude</string>
     <string name="formula_editor_sensor_user_language">user language</string>
-    <string name="formula_editor_sensor_x_inclination" tools:ignore="UnusedResources">傾斜感測器x軸</string>
-    <string name="formula_editor_sensor_y_inclination" tools:ignore="UnusedResources">傾斜感測器y軸</string>
-    <string name="formula_editor_sensor_loudness" tools:ignore="UnusedResources">聲音響度</string>
+    <string name="formula_editor_sensor_x_inclination" tools:ignore="UnusedResources">inclination x</string>
+    <string name="formula_editor_sensor_y_inclination" tools:ignore="UnusedResources">inclination y</string>
+    <string name="formula_editor_sensor_loudness" tools:ignore="UnusedResources">loudness</string>
     <string name="formula_editor_sensor_timer">timer</string>
     <string name="formula_editor_sensor_date_year" tools:ignore="UnusedResources">year</string>
     <string name="formula_editor_sensor_date_month" tools:ignore="UnusedResources">month</string>
@@ -1615,13 +1663,13 @@ needs read and write access to it. You can always change permissions through you
     <string name="formula_editor_phiro_sensor_bottom_right" tools:ignore="UnusedResources">phiro bottom right sensor</string>
     <string name="formula_editor_nfc_tag_id" tools:ignore="UnusedResources">nfc tag id</string>
     <string name="formula_editor_nfc_tag_message" tools:ignore="UnusedResources">nfc tag message</string>
-    <string name="formula_editor_object_x" tools:ignore="UnusedResources">位置座標_x</string>
-    <string name="formula_editor_object_y" tools:ignore="UnusedResources">位置座標_y</string>
-    <string name="formula_editor_object_transparency" tools:ignore="UnusedResources">透明度</string>
-    <string name="formula_editor_object_brightness" tools:ignore="UnusedResources">亮度</string>
-    <string name="formula_editor_object_size" tools:ignore="UnusedResources">大小</string>
-    <string name="formula_editor_object_rotation" tools:ignore="UnusedResources">方向</string>
-    <string name="formula_editor_object_layer" tools:ignore="UnusedResources">圖層</string>
+    <string name="formula_editor_object_x" tools:ignore="UnusedResources">position x</string>
+    <string name="formula_editor_object_y" tools:ignore="UnusedResources">position y</string>
+    <string name="formula_editor_object_transparency" tools:ignore="UnusedResources">transparency</string>
+    <string name="formula_editor_object_brightness" tools:ignore="UnusedResources">brightness</string>
+    <string name="formula_editor_object_size" tools:ignore="UnusedResources">size</string>
+    <string name="formula_editor_object_rotation" tools:ignore="UnusedResources">direction</string>
+    <string name="formula_editor_object_layer" tools:ignore="UnusedResources">layer</string>
     <string name="formula_editor_object_x_velocity" tools:ignore="UnusedResources">x velocity</string>
     <string name="formula_editor_object_y_velocity" tools:ignore="UnusedResources">y velocity</string>
     <string name="formula_editor_object_angular_velocity" tools:ignore="UnusedResources">angular velocity</string>
@@ -1630,15 +1678,15 @@ needs read and write access to it. You can always change permissions through you
     <string name="formula_editor_object_background_number" tools:ignore="UnusedResources">background number</string>
     <string name="formula_editor_object_background_name" tools:ignore="UnusedResources">background name</string>
     <string name="formula_editor_object_distance_to" tools:ignore="UnusedResources">distance to touch position</string>
-    <string name="formula_editor_compute">計算</string>
-    <string name="formula_editor_object">物件</string>
+    <string name="formula_editor_compute">Compute</string>
+    <string name="formula_editor_object">Properties</string>
     <string name="formula_editor_functions">Functions</string>
-    <string name="formula_editor_logic">邏輯</string>
-    <string name="formula_editor_device">感應器</string>
+    <string name="formula_editor_logic">Logic</string>
+    <string name="formula_editor_device">Sensors</string>
     <string name="formula_editor_device_sensors">Device sensors</string>
     <string name="formula_editor_functions_maths">Maths</string>
-    <string name="formula_editor_functions_strings">文字</string>
-    <string name="formula_editor_functions_lists">清單</string>
+    <string name="formula_editor_functions_strings">Text</string>
+    <string name="formula_editor_functions_lists">Lists</string>
     <string name="formula_editor_logic_boolean">Logical (Boolean) operators and constants</string>
     <string name="formula_editor_logic_comparison">Comparison operators</string>
     <string name="formula_editor_object_look">Look properties</string>
@@ -1646,7 +1694,7 @@ needs read and write access to it. You can always change permissions through you
     <string name="formula_editor_device_visual_detection">Visual sensors</string>
     <string name="formula_editor_device_date_and_time">Date and time</string>
     <string name="formula_editor_device_touch_detection">Touch detection</string>
-    <string name="formula_editor_device_lego_nxt">樂高 NXT</string>
+    <string name="formula_editor_device_lego_nxt">Lego Mindstorms NXT</string>
     <string name="formula_editor_device_lego_ev3">Lego Mindstorms EV3</string>
     <string name="formula_editor_device_arduino">Arduino</string>
     <string name="formula_editor_device_phiro">Phiro</string>
@@ -1654,13 +1702,13 @@ needs read and write access to it. You can always change permissions through you
     <string name="formula_editor_device_drone">Drone</string>
     <string name="formula_editor_device_nfc">NFC</string>
     <string name="formula_editor_device_cast">Chromecast</string>
-    <string name="formula_editor_string">字串</string>
+    <string name="formula_editor_string">Abc</string>
     <string name="formula_editor_logic_notequal" tools:ignore="UnusedResources">≠</string>
     <string name="formula_editor_logic_lesserthan" tools:ignore="UnusedResources">&lt;</string>
     <string name="formula_editor_logic_greaterthan" tools:ignore="UnusedResources">&gt;</string>
-    <string name="formula_editor_logic_and" tools:ignore="UnusedResources">AND</string>
-    <string name="formula_editor_logic_or" tools:ignore="UnusedResources">OR</string>
-    <string name="formula_editor_logic_not" tools:ignore="UnusedResources">NOT</string>
+    <string name="formula_editor_logic_and" tools:ignore="UnusedResources">and</string>
+    <string name="formula_editor_logic_or" tools:ignore="UnusedResources">or</string>
+    <string name="formula_editor_logic_not" tools:ignore="UnusedResources">not</string>
     <string name="formula_editor_logic_greaterequal" tools:ignore="UnusedResources">≥</string>
     <string name="formula_editor_logic_leserequal" tools:ignore="UnusedResources">≤</string>
     <string name="formula_editor_logic_equal" tools:ignore="UnusedResources">=</string>
@@ -1669,24 +1717,24 @@ needs read and write access to it. You can always change permissions through you
     <string name="formula_editor_operator_minus" tools:ignore="UnusedResources">-</string>
     <string name="formula_editor_operator_divide" tools:ignore="UnusedResources">÷</string>
     <string name="formula_editor_operator_power" tools:ignore="UnusedResources">^</string>
-    <string name="formula_editor_image_button_description_delete">刪除</string>
+    <string name="formula_editor_image_button_description_delete">delete</string>
     <string name="formula_editor_image_button_description_color_picker">color picker</string>
     <string name="formula_editor_image_button_description_functions_toggle">toggle functions</string>
-    <string name="formula_editor_variable_dialog_title">新變數</string>
-    <string name="formula_editor_list_dialog_title">新清單</string>
+    <string name="formula_editor_variable_dialog_title">New variable</string>
+    <string name="formula_editor_list_dialog_title">New list</string>
     <string name="formula_editor_regex_html_extractor_dialog_title">HTML extractor</string>
-    <string name="formula_editor_discard_changes_dialog_message">你要儲存你的更改嗎?</string>
-    <string name="formula_editor_discard_changes_dialog_title">儲存更改?</string>
-    <string name="formula_editor_new_string_name">新字串名稱</string>
+    <string name="formula_editor_discard_changes_dialog_message">Do you want to save your changes?</string>
+    <string name="formula_editor_discard_changes_dialog_title">Save changes?</string>
+    <string name="formula_editor_new_string_name">New text</string>
     <string name="formula_editor_dialog_change_text">Change text</string>
     <string name="formula_editor_dialog_change_regular_expression">Change regular
         expression</string>
-    <string name="formula_editor_fragment_data_current_items">當前資料項目</string>
-    <string name="formula_editor_data_dialog_is_list">建立成清單</string>
-    <string name="formula_editor_sensor_face_detected" tools:ignore="UnusedResources">人臉偵測</string>
-    <string name="formula_editor_sensor_face_size" tools:ignore="UnusedResources">人臉大小</string>
-    <string name="formula_editor_sensor_face_x_position" tools:ignore="UnusedResources">人臉位置座標_X</string>
-    <string name="formula_editor_sensor_face_y_position" tools:ignore="UnusedResources">人臉位置座標_Y</string>
+    <string name="formula_editor_fragment_data_current_items">current items</string>
+    <string name="formula_editor_data_dialog_is_list">Make it a list</string>
+    <string name="formula_editor_sensor_face_detected" tools:ignore="UnusedResources">first face is visible</string>
+    <string name="formula_editor_sensor_face_size" tools:ignore="UnusedResources">first face size</string>
+    <string name="formula_editor_sensor_face_x_position" tools:ignore="UnusedResources">first face x position</string>
+    <string name="formula_editor_sensor_face_y_position" tools:ignore="UnusedResources">first face y position</string>
     <string name="formula_editor_sensor_second_face_detected">second face is visible</string>
     <string name="formula_editor_sensor_second_face_size">second face size</string>
     <string name="formula_editor_sensor_second_face_x_position">second face x position</string>
@@ -1698,34 +1746,35 @@ needs read and write access to it. You can always change permissions through you
     <string name="formula_editor_function_text_block_size">text block size from camera</string>
     <string name="formula_editor_function_text_block_from_camera">text block from camera</string>
     <string name="formula_editor_function_text_block_language_from_camera">text block language from camera</string>
-    <string name="formula_editor_function_text_block_parameter">(0)</string>
-    <string name="formula_editor_intro_title_formula_editor">修改公式</string>
-    <string name="formula_editor_intro_summary_formula_editor">With the  formula editor you can create mathematical and
-        logical formulas that you can use in your bricks.\n\nYou can continue through this little intro by tapping
-        the \"Next\" button in the bottom right corner, and you can skip it by clicking the \"SKIP\" button in the
-        bottom left corner.</string>
+    <string name="formula_editor_function_text_block_parameter">(1)</string>
+    <string name="formula_editor_intro_title_formula_editor">Formula editor</string>
+    <string name="formula_editor_intro_summary_formula_editor">With the formula editor you can create mathematical and
+        logical formulas that you can use in your bricks.\n\nContinue by tapping “NEXT” or exit
+        with “SKIP”.
+    </string>
     <string name="formula_editor_intro_title_input_field">Input field</string>
     <string name="formula_editor_intro_summary_input_field">Here you can see and edit your formula.</string>
     <string name="formula_editor_intro_title_keyboard">Keyboard</string>
     <string name="formula_editor_intro_summary_keyboard">This is where you can create
         your formula, just like on a calculator.</string>
-    <string name="formula_editor_intro_title_compute">計算</string>
+    <string name="formula_editor_intro_title_compute">Compute</string>
     <string name="formula_editor_intro_summary_compute">To show your formula\'s current result, you can
         use \"Compute\".</string>
-    <string name="formula_editor_intro_title_object">物件</string>
-    <string name="formula_editor_intro_summary_object">這個是描述當前物件的屬性值的集合。例如 x 和 y 坐標或當前的速度。</string>
+    <string name="formula_editor_intro_title_object">Properties</string>
+    <string name="formula_editor_intro_summary_object">This is a collection of values that describe the properties of your
+        current actor or object. Examples are the x- and y-coordinates, or the current speed.</string>
     <string name="formula_editor_intro_title_functions">Functions</string>
     <string name="formula_editor_intro_summary_functions">Like a calculator, the formula editor offers
         many mathematical functions.\nYou can find trigonometric functions such as \"sin\" and \"cos\",
         a random number generator, and text and list functions.</string>
-    <string name="formula_editor_intro_title_logic">邏輯</string>
+    <string name="formula_editor_intro_title_logic">Logic</string>
     <string name="formula_editor_intro_summary_logic">Logic is used to compare values and combine logical formulas.\nTo
         compare values you can use logical operations such as \"&gt;\" (greater than) or \"=\" (equals).\nTo combine
         logical formulas you can use logical operations such as \"AND\", \"OR\" and \"NOT\".</string>
-    <string name="formula_editor_intro_title_device">感應器</string>
+    <string name="formula_editor_intro_title_device">Sensors</string>
     <string name="formula_editor_intro_summary_device">In \"Sensors\" you can find information that your
         device records.\nFor example, the tilt of your device, or the loudness of your surroundings.</string>
-    <string name="formula_editor_intro_title_data">變數資料</string>
+    <string name="formula_editor_intro_title_data">Data</string>
     <string name="formula_editor_intro_summary_data">Variables and lists that are used in your project can be found here.
         \nYou can simply insert these in your formula, or add new ones.</string>
     <string name="formula_editor_listening_language_sensor">listening language</string>
@@ -1733,10 +1782,10 @@ needs read and write access to it. You can always change permissions through you
     <string name="camera_error_text_detection">        There was a problem with text detection. Some components may still be downloading in the
         background. Please make sure you are connected to the internet and check back later.</string>
     <string name="formula_editor_function_flatten">flatten</string>
-    <string name="formula_editor_function_flatten_parameter">(*清單名稱*)</string>
+    <string name="formula_editor_function_flatten_parameter">(*list name*)</string>
     <!--  -->
     <!-- Brick Data Editor Strings -->
-    <string name="brick_show_variable" tools:ignore="UnusedResources">顯示變數</string>
+    <string name="brick_show_variable" tools:ignore="UnusedResources">Show variable</string>
     <string name="brick_hide_variable" tools:ignore="UnusedResources">Hide variable</string>
     <string name="brick_show_variable_position" tools:ignore="UnusedResources">at</string>
     <string name="brick_show_variable_size" tools:ignore="UnusedResources">size:</string>

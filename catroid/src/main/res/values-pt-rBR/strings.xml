@@ -591,16 +591,6 @@
     <string name="dialog_terms_of_use_info">Para utilizar o Pocket Code e outros executáveis oferecidos pelo projeto Catrobat, é preciso aceitar nossos Termos de Uso e segui-los estritamente quando usar o Pocket Code e os outros executáveis. Por favor, visite o link abaixo para encontrar as definições precisas dos Termos de Uso.</string>
     <string name="dialog_terms_of_use_link_text">Termos de Uso e Serviço</string>
     <!--  -->
-    <!-- Terms of Use Dialog Parrot ARDrone-->
-    <string name="dialog_terms_of_use_link_text_parrot_reminder">Termos de Uso e Serviço</string>
-    <string name="dialog_terms_of_use_parrot_reminder_text">Você está prestes a usar este app junto com o Parrot\'s
-        AR.Drone 2.0. Nós te lembramos fortemente de respeitar os Termos de Uso e Serviços do Parrot\'s e do Catrobat.</string>
-    <string name="dialog_terms_of_use_parrot_reminder_do_not_remind_again">Não me lembre de novo.</string>
-    <!--  -->
-    <!-- Terms of Use Dialog Parrot Jumping Sumo-->
-    <string name="dialog_terms_of_use_jumpingsumo_reminder_text">Você está prestes a usar este app junto com o Parrot\'s
-        AR.Drone 2.0. Nós te lembramos fortemente de respeitar os Termos de Uso e Serviços do Parrot\'s e do Catrobat.</string>
-    <!--  -->
     <!-- Privacy Policy -->
     <string name="disclaimer_privacy_police_header_headline">Bem-vindo!</string>
     <string name="disclaimer_privacy_policy_header">Para usar esta aplicação, por favor, aceite nossa</string>
@@ -718,8 +708,6 @@
     <string name="prestage_resource_not_available_title">Componente não disponível</string>
     <string name="prestage_resource_not_available_text">Infelizmente este projeto não funciona no seu dispositivo.
         Os seguintes componentes estão indisponíveis:\n\n</string>
-    <string name="prestage_resource_in_use_text">Outro dispositivo está conectado ao Jumping Sumo. Certifique-se de que você
-        está conectado ao drone.</string>
     <string name="prestage_no_vibration_available">\u2022 Vibração\n</string>
     <string name="prestage_no_acceleration_sensor_available">\u2022 Sensor de aceleração\n</string>
     <string name="prestage_no_inclination_sensor_available">\u2022 Sensor de inclinação\n</string>
@@ -729,7 +717,6 @@
     <string name="prestage_no_back_camera_available">\u2022 Câmera traseira\n</string>
     <string name="prestage_no_face_detection_available">\u2022 Detecção de rosto\n</string>
     <string name="prestage_no_text_detection_available">\u2022 Detecção de texto\n</string>
-    <string name="prestage_no_jumping_sumo_available">\u2022 Sumo de Salto\n</string>
     <string name="prestage_no_front_camera_available">\u2022 Câmera frontal\n</string>
     <string name="prestage_no_camera_available">\u2022 Câmera\n</string>
     <string name="prestage_no_flash_available">\u2022 Lanterna\n</string>
@@ -935,6 +922,7 @@
     <string name="brick_write_embroidery" tools:ignore="UnusedResources">Escrever dados da embroidery para um arquivo</string>
     <string name="brick_default_embroidery_file">bordado.dst</string>
     <string name="brick_sew_up" tools:ignore="UnusedResources">Costurar para cima</string>
+    <string name="brick_thread_color">Set thread color to</string>
     <!--  -->
     <!-- Device bricks -->
     <string name="brick_reset_timer" tools:ignore="UnusedResources">Resetar cronômetro</string>
@@ -1203,18 +1191,7 @@
     <string name="notification_download_pending">Download em progresso</string>
     <string name="notification_download_finished">Download bem-sucedido</string>
     <string name="notification_title_open">"Abrir "</string>
-    <string name="notification_low_battery_with_value">Atenção. A bateria está fraca. O status atual é %d</string>
     <string name="size_of_project">Tamanho:</string>
-    <string name="drone_emergency_battery_low">Bateria baixa (pouso automático).</string>
-    <string name="drone_emergency_camera">Uma ou mais câmeras não estão a responder.</string>
-    <string name="drone_emergency_ultrasound">O sensor de ultrasound não está respondendo.</string>
-    <string name="drone_emergency_angle">Os ângulos Euler do AR.Drone 2.0 ficaram muito altos. Motores desligados para evitar um comportamento
-        perigoso.</string>
-    <string name="drone_emergency_cutout">Um ou mais motores foram parados pelo ambiente.</string>
-    <string name="drone_alert_battery_low">A bateria está muito baixa para decolar novamente.</string>
-    <string name="drone_alert_ultrasound">O sensor de Ultrasound não pode determinar a altitude AR.Drone 2.0.</string>
-    <string name="drone_alert_vision">Nenhuma estimativa de velocidade da câmera inferior.</string>
-    <string name="drone_emergency_title">Emergência</string>
     <!--  -->
     <!-- Runtime permission messages -->
     <string name="runtime_permission_general">Este app precisa das permissões solicitadas para funcionar corretamente. Ex. o bloco de câmera
@@ -1240,18 +1217,6 @@ precisa de acesso de leitura e escrita a ele. Você sempre pode alterar as permi
         altere algo e tente novamente.</string>
     <string name="error_adding_brick">Algo deu errado ao adicionar este bloco.</string>
     <string name="error_copying_brick">Ocorreu um erro ao copiar este bloco</string>
-    <string name="error_no_drone_connected_title">Não foi possível encontrar o AR.Drone 2.0.</string>
-    <string name="error_no_drone_connected">Conecte seu wifi ao AR.Drone 2.0 e tente novamente.</string>
-    <string name="error_drone_low_battery_title">AR.Drone 2.0 bateria baixa: %d%%</string>
-    <string name="error_drone_low_battery">Insira uma bateria carregada e tente novamente.</string>
-    <string name="error_jumpingsumo_wrong_platform">Não é possível executar um projeto Sumo em Jumping no seu dispositivo.</string>
-    <string name="error_no_jumpingsumo_connected_title">Não foi possível encontrar Sumo de Salto</string>
-    <string name="error_no_jumpingsumo_connected">Conecte seu wifi ao Sumo de Salto e tente novamente.</string>
-    <string name="error_jumpingsumo_battery_title">Sumo de bateria fraca saltando</string>
-    <string name="error_jumpingsumo_battery">Insira uma bateria carregada e tente novamente.</string>
-    <string name="error_jumpingsumo_wrong_platform_title">Sem suporte a Saltar Sumo</string>
-    <string name="error_drone_wrong_platform_title">Sem suporte ao AR.Drone 2.0.</string>
-    <string name="error_drone_wrong_platform">Não é possível executar um projeto AR.Drone 2.0 no seu dispositivo.</string>
     <string name="error_rename_incompatible_project">Não é possível renomear um projeto incompatível.</string>
     <string name="error_embroidery_file_export">Algo deu errado ao compartilhar o arquivo embroidery.</string>
     <string name="error_embroidery_file_write">Algo deu errado ao escrever o arquivo embroidery.</string>
